@@ -1,0 +1,4 @@
+1. Install xampplite-win32-1.7.3.exe atau xampp-win3-1.7.3.exe yang ada di dalam folder "Servers\xampp"
+2. Install Sql Yog, yang ada di folder Servers\SQL Yog"
+3. Buka SQL Yog, dan import database sql yang ada di folder "Servers\DB".
+3. Kemudian install yang ada di folder "App\setup.exe", tapi sebelumnya uninstall terlebih dahulu aplikasi Passenger Analysis Unit.

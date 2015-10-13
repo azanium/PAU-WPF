@@ -1,0 +1,48 @@
+﻿<Window x:Class="PAU.UserControls.winPopupPassenger"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit"
+        xmlns:xr="clr-namespace:DevComponents.WpfRibbon;assembly=DevComponents.WpfRibbon"
+        WindowStartupLocation="CenterScreen" ShowInTaskbar="False"
+        Title="Passenger History" Height="435" Width="866" Icon="/PAU;component/Firefox alt.ico">
+    
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Themes/DataGrid.Generic.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    
+    <DockPanel LastChildFill="True" >
+        
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+            <StackPanel Orientation="Vertical">
+                <xr:ButtonDropDown x:Name="btnLoadPicture" Header=" Load Picture" Height="50" VerticalAlignment="Top" Margin="3 3 3 3"
+                                   Click="btnLoadPicture_Click"/>
+                <CheckBox x:Name="cbxEditMode" Content="Edit Mode" Click="cbxEditMode_Click" Margin="3 3 3 3" />
+            </StackPanel>
+            <Image x:Name="imgPreview" Width="150" Height="150" />
+
+        </StackPanel>
+        <toolkit:DataGrid x:Name="dgPassenger" ItemsSource="{Binding Path=Passengers}" AutoGenerateColumns="False" 
+                          RowEditEnding="dgPassenger_RowEditEnding"
+                          CanUserAddRows="False" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"
+                          IsReadOnly="True"
+                          SelectionMode="Single"    
+                          SelectionChanged="dgPassenger_SelectionChanged">
+            <toolkit:DataGrid.Columns>
+                <toolkit:DataGridTextColumn Header="No" Width="50" Binding="{Binding Path=No}" />
+                <toolkit:DataGridTextColumn Header="First Name" Width="200" Binding="{Binding Path=FirstName}" />
+                <toolkit:DataGridTextColumn Header="Last Name" Width="200" Binding="{Binding Path=LastName}" />
+                <toolkit:DataGridTextColumn Header="Notes" Width="150" Binding="{Binding Path=Notes}" />
+                <toolkit:DataGridTextColumn Header="Flight Date" Width="70" Binding="{Binding Path=FlightDate}" />
+                <toolkit:DataGridTextColumn Header="Flight No" Width="70" Binding="{Binding Path=FlightNo}" />
+                <toolkit:DataGridTextColumn Header="Passport" Width="100" Binding="{Binding Path=Passport}" />
+                <toolkit:DataGridTextColumn Header="Picture" Width="100" Binding="{Binding Path=Picture}" />
+            </toolkit:DataGrid.Columns>
+        </toolkit:DataGrid>
+        
+    </DockPanel>
+    
+</Window>

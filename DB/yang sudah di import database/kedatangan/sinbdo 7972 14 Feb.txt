@@ -1,0 +1,170 @@
+                               AirAsia Indonesia
+14Feb11 13:51                     Flight Close                      By:5877a     
+
+                   Flight:  7972 SINBDO  Date:  14Feb11/1415
+================================================================================
+Totals:
+Manifested             -    110           Checked-in/Boarded           -      98
+Unconfirmed            -      0           No Shows                     -      12
+Stand-by Pax           -      0           Cleared Stand-by Pax         -       0
+Thru Manifested        -      0           Thru Checked-in/Boarded      -       0
+Thru No - shows        -      0
+Total Manifested       -    110           Total Checked-in             -      98
+
+Inf. Manifested        -      1           Inf. Checked-in/Boarded      -       1
+Child Manifested       -      4           Child Checked-in/Boarded     -       3
+Female Manifested      -     61           Female Checked-in/Boarded    -      56
+Male Manifested        -     45           Male Checked-in/Boarded      -      39
+
+Flt Cpns Possible      -      0           Flt Cpns Required            -       0
+
+Total Bag Checked      -     95           Total Bag Weight             -    1185
+
+Pax Checked-In by Zone
+
+                      M   F   C TTL   I
+   Zone 1     1-6 :   6   9   0  15   1
+   Zone 2    7-17 :  19  25   1  45   0
+   Zone 3   18-26 :  14  22   2  38   0
+                    --- --- --- --- ---
+  Totals:            39  56   3  98   1
+
+                                          Fare     Seq         Seat
+Cnt Name                       LVL PNR    Class    No  Date    No     CDst Flt 
+--- -------------------------- --- ------ -------- --- ------- ------ ---- ----
+Checked-in/Boarded:
+1   Abu Bakar,Noraini              ZDCDWK O          1 10Jan11    11E 0BDO 7972
+2   ABUBAKAR BAGHARIB,AHMAD        D6CMGZ A          3 27Jan11    10C 0BDO 7972
+3   Adman,Martini                  Q5BY8P P         98 11Feb11     7A 0BDO 7972
+4   agnes,agnes                    W6CJMP A         69 01Feb11    23A 0BDO 7972
+5   arlaika yuniza,syavin          BDLG4B O         32 11Jan11    11B 0BDO 7972
+6   astari magetsari,mirna         RD3ENX A         45 17Jan11    25A 0BDO 7972
+7   AWAB,MALEK                     D6CMGZ A          4 27Jan11    10F 0BDO 7972
+8   Bin Azimat,Muhamad Istiqam     LEBN3B O         77 11Jan11    22D 0BDO 7972
+9   Bin Bidin,Azimat               LEBN3B O         78 11Jan11    22E 0BDO 7972
+10  Binte Arshad,Norhana           LEBN3B O         79 11Jan11    22F 0BDO 7972
+11  CAHYA BRATA SURYA,GLEN MAK     P9PRND Z         83 16Dec10    21E 0BDO 7972
+12  CHAIRUNNISA,HAURA ZAHRA        X16TWR A         50 02Feb11    18C 0BDO 7972
+13  Chandra,Angelia                XD47PK V         52 07Feb11    15B 0BDO 7972
+14  ckrisnawati,sumirah            SENLME L         80 12Feb11    22C 0BDO 7972
+15  DIRJAYANTO,JULIUS              VYBNMD A          8 18Jan11    16A 0BDO 7972
+16  Elita,Binti Amandjaja          B1K6VL O         39 11Jan11    10B 0BDO 7972
+17  fidianti magetsari,nanda       BERIYB A         44 17Jan11    25C 0BDO 7972
+18  GUNAMAN,ALI                    E9FU7A V         92 05Feb11     8D 0BDO 7972
+19  halim,erwin                    A1YQPL V         31 07Jan11    17F 0BDO 7972
+20  HENDRA BIN MUSTAFFA,HENDRA     F8CMXG Z         48 14Dec10     2E 0BDO 7972
+21  HIDAYAT,DODI                   Q18ZWB V         56 08Feb11    12D 0BDO 7972
+22  Ibrahim,Airi                   ZDCDWK O          2 10Jan11    11F 0BDO 7972
+23  Joen Tek,Lai                   I5E75M E         24 22Oct10     9D 0BDO 7972
+24  JUSUF,TOMAS                    R6T78Z A         22 27Jan11     3B 0BDO 7972
+25  KARIN PERMATASARI,MONIKA       P9PRND Z         81 16Dec10    21D 0BDO 7972
+26  Karmawan,Damy                  K4SG9P Z         29 21Jan11     6A 0BDO 7972
+27  KASWINAH,KASWINAH              E4LZMC P         96 11Feb11    19C 0BDO 7972
+28  Keyi,Chen                      A7C22T E         76 16Nov10    10E 0BDO 7972
+29  KHOR,HOCK GUAN                 LYJ8CF E         84 23May10     2C 0BDO 7972
+30  kristian,wenny                 A1YQPL V         26 07Jan11    17E 0BDO 7972
+31  Kristiani,Lim Yenny            K4SG9P Z         30 21Jan11     6C 0BDO 7972
+32  KURNIAWAN,YORIS                ME5SKE A         90 02Feb11     9E 0BDO 7972
+33  lajim,lydia                    IYW6XA A         42 16Jan11    20B 0BDO 7972
+34  Lembong,Johannes               OBMYWN V         62 06Feb11    16D 0BDO 7972
+35  LILI GOERNAHA,MOCHAMAD MAN     P9PRND Z         82 16Dec10    21C 0BDO 7972
+36  lim,boon khoon                 J7P6FW L         86 13Feb11    11C 0BDO 7972
+37  Lim,Jemmy                      A44R5P V         71 09Feb11    18E 0BDO 7972
+38  Lioek Wan,Lioe                 XCTDMK Z         64 25Dec10    24D 0BDO 7972
+39  LUBIS,SITI MARIANI             X16TWR A         51 02Feb11    18B 0BDO 7972
+40  Luhur,Titin                    MDG56E E         10 07Jan11     9B 0BDO 7972
+41  LUKITO,RONNY                   LY6VNQ P         88 10Feb11     8F 0BDO 7972
+42  Man Hoa,Lioe                   ZDTYXX I         66 25Dec10     7D 0BDO 7972
+43  Man Wan,Lioe                   T1BEXB I         65 25Dec10     7F 0BDO 7972
+44  mandalissa,yusuf               C7PBWW O         59 12Jan11    15F 0BDO 7972
+45  Marlina,Marlina                LZQIYB I         94 31Dec10     8A 0BDO 7972
+46  MARSIYAH,MARSIYAH              H5JE5M P         21 10Feb11     9A 0BDO 7972
+47  mualim,herlina                 WYPF7A L         72 13Feb11    11D 0BDO 7972
+48  MULYATI,ETI                    XYG3MD P         13 11Feb11    24E 0BDO 7972
+49  MULYONO,LETI                   F3RC3C E          7 07Jan11    15D 0BDO 7972
+50  Ng,Manlany                     S4CCGF E          6 07Jan11    15A 0BDO 7972
+51  Nja Hang,Kwok                  I5E75M E         25 22Oct10    20A 0BDO 7972
+52  NOR AISAH BINTE ROMIN,NOR      F8CMXG Z         49 14Dec10     2F 0BDO 7972
+   INFT: MUHAMMAD SAEFUDDIN BIN HENDRA,MUHAMMAD SAEFUDDIN B
+53  NOVERATI,HERLINA               B4U1QP Z         36 16Dec10     6D 0BDO 7972
+54  nurhayati,nurhayati            U4247F P         95 11Feb11    23E 0BDO 7972
+55  NURJANAH,NUNUY                 VZTNRR P         73 10Feb11    23B 0BDO 7972
+56  nurrofia,fifie                 RD3ENX A         43 17Jan11    25B 0BDO 7972
+57  Perawati,Perawati              K8TR8D A         58 01Feb11    20D 0BDO 7972
+58  puji astuti,retno              TZI1KR V         54 08Feb11    23F 0BDO 7972
+59  RASMINI,RASMINI                XBB7KA O         57 10Jan11    22B 0BDO 7972
+60  rohaniah iskandar,yena         BDLG4B O         33 11Jan11    17B 0BDO 7972
+61  Rokayah,Siti                   Z5ZL2C Z         74 11Nov10    24F 0BDO 7972
+62  ROSTINI,NINA                   B4U1QP Z         37 16Dec10     6F 0BDO 7972
+63  Rowiyah,Aam                    G8KJGT A         55 01Feb11    22A 0BDO 7972
+64  Rukmini,Binte Halim            B1K6VL O         40 11Jan11    10A 0BDO 7972
+65  sakinah iskandar masum,nat     BDLG4B O         34 11Jan11    11A 0BDO 7972
+66  salim,yundrawati               A1YQPL V         28 07Jan11    17C 0BDO 7972
+67  Sarip,Dadang                   OBMYWN V         63 06Feb11    16F 0BDO 7972
+68  SARIWATI,WATI                  P9PRND Z         85 16Dec10    21B 0BDO 7972
+69  SEMBIRING,FENIA                B4U1QP Z         38 16Dec10     6E 0BDO 7972
+70  SETIAWATI,MEILIANA             LY6VNQ P         89 10Feb11     8E 0BDO 7972
+71  setiawaty,watty                C7PBWW O         60 12Jan11    15E 0BDO 7972
+72  SHIGEKI,OHTSUKA                D6CMGZ A          5 27Jan11    10D 0BDO 7972
+73  Siauw,Sugianto                 K8SCWG L         15 12Feb11     1B 0BDO 7972
+74  Soe Ching,Oeij                 BCKM2E O         20 13Jan11    19E 0BDO 7972
+75  Soegianto,Heng                 K8SCWG L         16 12Feb11     2A 0BDO 7972
+76  SOLIHIN,ASEP                   X16TWR A         47 02Feb11    18A 0BDO 7972
+77  sorey,donald hendrikus         W6CJMP A         68 01Feb11    24A 0BDO 7972
+78  Sulaiman jayawiguna,Kurnia     A44R5P V         70 09Feb11    18D 0BDO 7972
+79  Sumardi,Sumardi                BCKM2E O         19 13Jan11    19F 0BDO 7972
+80  SUPRAMANIAM,HARI KRISHNA       X1GJVB Z         12 07Dec10    24B 0BDO 7972
+81  Suryadi,Yohannes               LZQIYB I         93 31Dec10     8B 0BDO 7972
+82  SURYATI,TITI                   O43BXV O         87 10Jan11    21F 0BDO 7972
+83  Sutanto,Stheven                MDG56E E          9 07Jan11     9C 0BDO 7972
+84  Sutanto,Yudi                   A7C22T E         75 16Nov10    18F 0BDO 7972
+85  taib,mohd yunos                IYW6XA A         41 16Jan11    20C 0BDO 7972
+86  Tirto,Honey                    OBMYWN V         61 06Feb11    16E 0BDO 7972
+87  tjandraprawira,sylviati        X11VVR I         46 04Jan11     8C 0BDO 7972
+88  TJHING,ONG SIOE                R6T78Z A         23 27Jan11     3C 0BDO 7972
+89  Tong Moy,Liem                  ZDTYXX I         67 25Dec10     7E 0BDO 7972
+90  tridevie djukardi,wahyuni      BDLG4B O         35 11Jan11    17A 0BDO 7972
+91  WARNI,WARNI                    Q116RB A         14 19Jan11    21A 0BDO 7972
+92  Wijaya,Andreas                 XD47PK V         53 07Feb11    15C 0BDO 7972
+93  Wong,Fong Tjen                 K8SCWG L         17 12Feb11     2B 0BDO 7972
+94  Wong,Vera                      K8SCWG L         18 12Feb11     1C 0BDO 7972
+95  yeo,henry chiew hai            F3137F P         97 10Feb11    26A 0BDO 7972
+96  yohan,julianna                 A1YQPL V         27 07Jan11    17D 0BDO 7972
+97  YOHEVA,RENNY                   ME5SKE A         91 02Feb11     9F 0BDO 7972
+98  yuniarti supriadi,rita         DBV57H V         11 08Feb11     1D 0BDO 7972
+
+No Shows:
+1   EOB,EOB                        L8FHHG N          0 28Jan11    20F 0BDO 7972
+2   Gehmann,Klaus Bernd            P8155G Z          0 06Dec10     1A 0BDO 7972
+3   Husada,Cindy Juanita           H85QKG Z          0 21Dec10     7C 0BDO 7972
+4   MASITOH,TITOH                  E9L8AI E          0 22May10    16C 0BDO 7972
+5   MUCHTAR,TAUFIQ                 E9L8AI E          0 22May10    16B 0BDO 7972
+6   Sidharta,Okky                  H85QKG Z          0 21Dec10     6B 0BDO 7972
+7   Sidharta,Rachel                H85QKG Z          0 21Dec10     7B 0BDO 7972
+8   SUPARDIN,ALI BIN SUPARDIN      V5CTPC E          0 25Jul10    23D 0BDO 7972
+9   Sylviano,Hinggrica             Q7UHQJ Z          0 14Dec10     1F 0BDO 7972
+10  Tjiok,Julia                    KCE16U E          0 25Jul10    20E 0BDO 7972
+11  Uthama,Hardyono                Q7UHQJ Z          0 14Dec10     1E 0BDO 7972
+12  YAYAH RUKOYAH,YAYAH RUKOYA     V5CTPC E          0 25Jul10    23C 0BDO 7972
+
+Thru Checked-in/Boarded
+There are 0 Thru Pax who have checked-in/Boarded...
+
+Thru No Shows
+There are 0 thru No Shows on this flight...
+
+Unconfirmed
+There are 0 unconfirmed on this flight...
+
+                                              Fare     Priority
+Cnt Name                               PNR    Class    Code     Date    Dst 
+--- ---------------------------------- ------ -------- -------- ------- ----
+Stand-by
+There are 0 Stand-By on this flight...
+
+                                            (1,4)
+Cnt Name                             PNR    Class    Seq No Date    Seat No
+---       -------------------------- ------ -------- ------ ------- -------
+Unapproved Stand - by status:
+There are 0 unapproved stand-by pax on this flight...
+

@@ -1,0 +1,172 @@
+                               AirAsia Indonesia
+16Feb11 10:15                     Flight Close                      By:5920      
+
+                   Flight:  7971 BDOSIN  Date:  15Feb11/1105
+================================================================================
+Totals:
+Manifested             -    110           Checked-in/Boarded           -     105
+Unconfirmed            -      0           No Shows                     -       5
+Stand-by Pax           -      0           Cleared Stand-by Pax         -       0
+Thru Manifested        -      0           Thru Checked-in/Boarded      -       0
+Thru No - shows        -      0
+Total Manifested       -    110           Total Checked-in             -     105
+
+Inf. Manifested        -      3           Inf. Checked-in/Boarded      -       3
+Child Manifested       -      4           Child Checked-in/Boarded     -       4
+Female Manifested      -     52           Female Checked-in/Boarded    -      48
+Male Manifested        -     54           Male Checked-in/Boarded      -      53
+
+Flt Cpns Possible      -      0           Flt Cpns Required            -       0
+
+Total Bag Checked      -     55           Total Bag Weight             -     621
+
+Pax Checked-In by Zone
+
+                      M   F   C TTL   I
+   Zone 1     1-6 :   9  10   0  19   2
+   Zone 2    7-17 :  21  24   2  47   0
+   Zone 3   18-26 :  23  14   2  39   1
+                    --- --- --- --- ---
+  Totals:            53  48   4 105   3
+
+                                          Fare     Seq         Seat
+Cnt Name                       LVL PNR    Class    No  Date    No     CDst Flt 
+--- -------------------------- --- ------ -------- --- ------- ------ ---- ----
+Checked-in/Boarded:
+1   Agustian,Angga                 I67SXM A         72 21Jul10    10E 0SIN 7971
+2   Agustiany,Fifin Arifiani       J75T2G A         69 22Jul10    17B 0SIN 7971
+3   Azmi,Kholid Alisha             J75T2G A         70 22Jul10    11A 0SIN 7971
+4   Bessie,Ronald                  I67SXM A         61 21Jul10    18F 0SIN 7971
+5   BIN ADANAN,FARAS ATRAS         I6P39J O         31 10Jan11    10B 0SIN 7971
+6   Bin Saari,Muhammad Zakir       G32HHV V         47 31Jan11     8A 0SIN 7971
+7   Bte Md DIn,Rahemah             G32HHV V         48 31Jan11     8B 0SIN 7971
+8   Bte Selamat,Rafidah            G32HHV V         49 31Jan11     8C 0SIN 7971
+9   budi santoso,slamet            DYZK8N U        102 15Feb11    26D 0SIN 7971
+10  cHAN,lik WAH                   QB6MRA V         83 08Feb11     9E 0SIN 7971
+11  Damanik,Syntha Desy Putray     Y7I3NZ E         91 21Jul10    15D 0SIN 7971
+12  DECKY,ANTONO                   QDY7VX V         95 30Jan11     9F 0SIN 7971
+13  Dhamajanti,Tetty               Y6MN6M V         58 24Dec10     7E 0SIN 7971
+14  Edeline,Callista Philana       D9VNXQ L         84 14Feb11    23B 0SIN 7971
+15  EOB,EOB                        L8FHHG N          7 28Jan11    19F 0SIN 7971
+16  FANNY,FANNY                    L5KVPP V         33 04Jan11     7B 0SIN 7971
+17  Firmansyah,Cecep               I67SXM A         62 21Jul10    10C 0SIN 7971
+18  H,Irien Susilowaty             T1EP7L E         78 21Jul10    20C 0SIN 7971
+19  Halimatmadja,Kosasih           Y6MN6M V         59 24Dec10     7D 0SIN 7971
+20  Halimatmadja,Yety Setyawat     Y6MN6M V         60 24Dec10     7F 0SIN 7971
+21  HALIP,NINIWI                   O85UGW L         56 14Feb11    16A 0SIN 7971
+22  HAMANA,TAKAHIRO                J1Q28Y V        100 07Feb11     6F 0SIN 7971
+23  HAMANA,YUKA                    VYJH5A V        101 07Feb11     6E 0SIN 7971
+24  HARJONO,HENDRA                 B4WDXC P         92 11Feb11     1A 0SIN 7971
+25  Harsadi,Rubiono                N959HT P         99 12Feb11    19D 0SIN 7971
+26  HERMAN,TJIN                    F6J88J L         96 14Feb11     8F 0SIN 7971
+27  HERMAWAN,TJIN                  F6J88J L         98 14Feb11     8E 0SIN 7971
+28  herwandi,agus                  B6CWKZ U         89 15Feb11    25A 0SIN 7971
+29  hestia,hestia                  B44LVS A         53 19Jan11    16E 0SIN 7971
+30  hutagalung,ardenn benedict     DYZK8N U        103 15Feb11    26E 0SIN 7971
+31  Irawan,Adi                     I67SXM A         68 21Jul10    10F 0SIN 7971
+32  iskat gunawan,shirley          I9V2NQ V        105 08Feb11    17C 0SIN 7971
+33  JAMALUDIN,DEDE                 NC627X P         80 11Feb11    19C 0SIN 7971
+34  Jia Xin,Esther Teo             V2JI6Y V         12 10Feb11    22E 0SIN 7971
+35  JOEN,TAN TJIOE                 N4FFTF V         21 07Feb11     5A 0SIN 7971
+36  Jumali Bin,Sapeon              CEF8KB A         45 14Jan11    26B 0SIN 7971
+37  Kartasasmita,Rita              BBTZ9H V         54 31Jan11    16F 0SIN 7971
+38  Kholid,Kholid                  J75T2G A         71 22Jul10    17A 0SIN 7971
+39  Kim,Donghui                    SZI5MR P         25 12Feb11    12C 0SIN 7971
+40  Kristiningsih,Budi             T1EP7L E         74 21Jul10    21C 0SIN 7971
+41  kurnia,dede                    B6CWKZ U         90 15Feb11    25B 0SIN 7971
+42  lim,boon khoon                 J7P6FW L         52 13Feb11    11B 0SIN 7971
+43  limanjaya,beatrice             P595HC U         57 15Feb11    16B 0SIN 7971
+44  mien,woen lie                  RDVE8R E         38 21Jul10    11D 0SIN 7971
+45  mulja,lianiwati                R44I2S A         18 18Jan11     9B 0SIN 7971
+46  Nitah Andansari,Nitah Anda     CEF8KB A         46 14Jan11    26A 0SIN 7971
+47  nuriati,fonny                  UCVQSX E        106 21Jul10    11F 0SIN 7971
+48  Nursalim,Vina Diana            G3BCQV V         97 22Jan11    18B 0SIN 7971
+49  oeij,yuniaty                   B44LVS A         50 19Jan11    16D 0SIN 7971
+50  ong,yustine                    UCVQSX E         36 21Jul10    11E 0SIN 7971
+51  Parida,Ida                     P8HTFG A          2 24Nov10     6D 0SIN 7971
+52  PERDANA,CHRISTIANTO            U924XW O         10 10Jan11    22C 0SIN 7971
+53  PERMADI,YUDA                   OZKCHB P         81 12Feb11    19A 0SIN 7971
+54  Pratama,Calvin                 BBTZ9H V         55 31Jan11    17F 0SIN 7971
+55  RAHARDJO,AGUS BUDI             N6FK3J A         79 23Jul10    19E 0SIN 7971
+56  Rai,Rambha                     J78GFJ V         13 27Jan11    22A 0SIN 7971
+57  Ratina,Ratina                  TF32VE V         32 09Feb11    24A 0SIN 7971
+   INFT: AMZAH,ADLY                                        
+58  ROEDIRETNA,ARI                 N4FFTF V         24 07Feb11     5C 0SIN 7971
+59  Rostiawati,Tita                T1EP7L E         64 21Jul10    21E 0SIN 7971
+60  Roveri,Gilda                   S438MV P          1 11Feb11    14F 0SIN 7971
+61  SAIGAL,ANKUSH                  WB3U2N V          8 08Feb11    22F 0SIN 7971
+62  SALIM,MINURAENY                GD477E A         39 10Jan11     4B 0SIN 7971
+63  Salim,Partiany                 GD477E A         40 10Jan11     4A 0SIN 7971
+64  SANTOSO,EDDY WIKUNDONO         N4FFTF V         22 07Feb11     5D 0SIN 7971
+65  SAPUTRA,HENNY                  M2SSWY A         41 13Jan11    24D 0SIN 7971
+66  SAPUTRA,JAJANG                 M2SSWY A         42 13Jan11    24E 0SIN 7971
+67  Sari,Nessya Indriyani Kari     T1EP7L E         77 21Jul10    20F 0SIN 7971
+68  SATIAWAN,LILI                  L6BF3Z L         66 14Feb11    23E 0SIN 7971
+69  Seth,Arjun                     J78GFJ V         14 27Jan11    22B 0SIN 7971
+70  SETH,PUNEET                    J78GFJ V         15 27Jan11    21A 0SIN 7971
+71  Seth,Raghav                    J78GFJ V         16 27Jan11    21B 0SIN 7971
+72  setiadi tedja,aping            K85P2T O         82 10Jan11    10A 0SIN 7971
+73  Setyadi,Jenny Setyadi          SYRMFA A         44 07Jan11    20B 0SIN 7971
+74  SETYANI,YENI                   TYCKDF E         26 21May10    15E 0SIN 7971
+75  SOEMANTRI,FATAH                L6BF3Z L         67 14Feb11    23D 0SIN 7971
+76  Sugianto,Arik                  T1EP7L E         75 21Jul10     7A 0SIN 7971
+77  sumarto,sumarto                R44I2S A         17 18Jan11     9A 0SIN 7971
+78  sumarto,tuty                   R44I2S A         19 18Jan11     9D 0SIN 7971
+79  SUN HWEI,JAP                   B4WDXC P         93 11Feb11     1D 0SIN 7971
+80  suprijatna,suprijatna          B44LVS A         51 19Jan11    16C 0SIN 7971
+81  SURJADI,WIDJAJA                F9URBD I          4 22May10     1E 0SIN 7971
+82  Susanti,Lustri                 T1EP7L E         76 21Jul10    20D 0SIN 7971
+83  susanti souw,yani              VEV6PE V         35 08Feb11     8D 0SIN 7971
+84  Suseno,Arif Dian               I67SXM A         63 21Jul10    10D 0SIN 7971
+85  Susilo,Wanda Laudhia           I67SXM A         73 21Jul10    18E 0SIN 7971
+86  sutarso,bambang                DYZK8N U        104 15Feb11    26F 0SIN 7971
+87  Syahlim,Hendry Djaja Rober     SYRMFA A         43 07Jan11    20A 0SIN 7971
+88  tirtadjaja,julian waty         R44I2S A         20 18Jan11     9C 0SIN 7971
+89  Tjandra,Rijen                  I67SXM A         65 21Jul10    18D 0SIN 7971
+90  Tjatjawidjaja,Sumiati          Y6QB7M A          6 19Jan11     6A 0SIN 7971
+91  Tjatjawidjaja,Yanti Susant     Y6QB7M A          9 19Jan11     6B 0SIN 7971
+   INFT: iriadi,Vanesha Liona                              
+92  TJHO,TJUN LIUNG                L5KVPP V         34 04Jan11     7C 0SIN 7971
+93  Utarja,Josep Bely              D9VNXQ L         85 14Feb11    23A 0SIN 7971
+94  WAHBAN HILAL,ESMOREIT          TYCKDF E         29 21May10    15B 0SIN 7971
+95  WAHBAN HILAL,KALINGGA          TYCKDF E         27 21May10    15C 0SIN 7971
+96  WAHBAN HILAL,RONALD            TYCKDF E         28 21May10    15F 0SIN 7971
+97  WIBOWO,DEWANTIPUSPA            U924XW O         11 10Jan11    22D 0SIN 7971
+98  WIDJAJA,TJUTJU                 N4TPSS P         86 12Feb11     5E 0SIN 7971
+99  WIHENDAR,DADAN                 B4WDXC P         94 11Feb11     1B 0SIN 7971
+100 WIJAYA,ANTON                   I9V3LC E          5 22May10     1C 0SIN 7971
+101 WIJAYA,HENY                    F9URBD I          3 22May10     1F 0SIN 7971
+102 WILLIAM,THEO                   WYIG6A A         88 13Dec10    23F 0SIN 7971
+103 WIRIANI,WINNY                  N4TPSS P         87 12Feb11     5F 0SIN 7971
+   INFT: JUDANAGARA,CASPIAN JOSZEF                         
+104 WYMMAR,WYMMAR                  N4FFTF V         23 07Feb11     5B 0SIN 7971
+105 YUNIARTIN K,TINA               TYCKDF E         30 21May10    15A 0SIN 7971
+
+No Shows:
+1   Ariyani,Lina                   T1EP7L E          0 21Jul10    20E 0SIN 7971
+2   Iriadi,Fentjie                 Y6QB7M A          0 19Jan11     6C 0SIN 7971
+3   Kusumawardani,Widhiarini       T1EP7L E          0 21Jul10    21D 0SIN 7971
+4   MIGUNA,HAYANA                  GYK9AG E          0 21May10    18C 0SIN 7971
+5   Sutanti,Nurita                 T1EP7L E          0 21Jul10    21F 0SIN 7971
+
+Thru Checked-in/Boarded
+There are 0 Thru Pax who have checked-in/Boarded...
+
+Thru No Shows
+There are 0 thru No Shows on this flight...
+
+Unconfirmed
+There are 0 unconfirmed on this flight...
+
+                                              Fare     Priority
+Cnt Name                               PNR    Class    Code     Date    Dst 
+--- ---------------------------------- ------ -------- -------- ------- ----
+Stand-by
+There are 0 Stand-By on this flight...
+
+                                            (1,4)
+Cnt Name                             PNR    Class    Seq No Date    Seat No
+---       -------------------------- ------ -------- ------ ------- -------
+Unapproved Stand - by status:
+There are 0 unapproved stand-by pax on this flight...
+

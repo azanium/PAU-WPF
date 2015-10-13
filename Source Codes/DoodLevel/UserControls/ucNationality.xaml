@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="PAU.UserControls.ucNationality"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:xd="clr-namespace:DevComponents.WpfDock;assembly=DevComponents.WpfDock"
+             xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit">
+
+    <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+        <toolkit:DataGrid x:Name="dgNationality" ItemsSource="{Binding Path=Nationalities}" AutoGenerateColumns="False"
+                          CanUserAddRows="False" RowEditEnding="dgNationality_RowEditEnding" 
+                          PreviewKeyDown="dgNationality_PreviewKeyDown">
+            <toolkit:DataGrid.Columns>
+                <toolkit:DataGridTextColumn Header="No" Width="50" Binding="{Binding No}" />
+                <toolkit:DataGridTextColumn Header="Nationality" Width="200" Binding="{Binding Nationality}" />
+            </toolkit:DataGrid.Columns>
+        </toolkit:DataGrid>
+
+    </DockPanel>
+
+</UserControl>
+

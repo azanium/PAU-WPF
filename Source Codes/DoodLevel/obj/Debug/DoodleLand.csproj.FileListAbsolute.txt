@@ -1,0 +1,22 @@
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\MainWindow.g.cs
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\App.g.cs
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\Doodle Land_MarkupCompile.cache
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\Doodle Land_MarkupCompile.lref
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\Doodle Land.exe
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\Doodle Land.pdb
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\Core.Data.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DevComponents.WpfDock.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DevComponents.WpfEditors.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DevComponents.WpfRibbon.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DbLinq.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DbLinq.MySql.dll
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DbLinq.pdb
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\Core.Data.pdb
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\bin\Debug\DbLinq.MySql.pdb
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\MainWindow.baml
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\Doodle Land.g.resources
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\DoodleLand.Properties.Resources.resources
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\DoodleLand.csproj.GenerateResource.Cache
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\Doodle Land.exe
+D:\Projects\Pabean\PAU WPF\Source Codes\DoodLevel\obj\Debug\Doodle Land.pdb

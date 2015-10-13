@@ -1,0 +1,355 @@
+                        Pax Verification Summary Report
+Date:19Feb11                      Flight#:7972               City Pair:SINBDO
+
+       PNR Last Name                 First Name           Middle Name         
+           G DOB     Nat Res WL Ver Sb Doc Type       Number    Exp  Cy
+   ---------------------------------------------------------------------------
+  1) I7W3XJ AAN                       AAN                                      
+           F 681122   ID  ID      Y N    P             AP112863 231113  ID
+  2) X4MI6S ADISTY                    RISA                                     
+           F 821009   ID  ID      Y N    P             T 483553 210714  ID
+  3) E4ID9P ALIYAH FIRDAUS            FARRASYA                                 
+           F 050505   ID  ID      Y N    P             W 564294         ID
+  4) Y6QEXP ANG                       CHAI SENG                                
+           M 760112   SG  SG      Y N    P                   SG 210313  SG
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+  5) UC5M8X Arifianto                 Litus                                    
+           M 900805   ID          N N
+  6) JYNRTN Bin Abdul Rahman          Raziz                                    
+           M 671230   SG  SG      N N
+  7) W93K2D Bin Adnan                 Isnin                                    
+           M 460911   SG  SG      N N
+  8) W93K2D Bin Anuwar                Muhamed                                  
+           M 520303   SG  SG      N N
+  9) QDB3WH Bin Mohamad Arsek         Mohamad Irwan                            
+           M 700602   SG  SG      N N
+ 10) J8NJTT Bin Mohd Sidek            Mohamed Khalis                           
+           M 911026   SG  SG      N N
+ 11) KBQETK Bin Murite                Mohd Sidek                               
+           M 541120   SG  SG      N N
+ 12) JYNRTN Bin Raziz                 Danish Aqil                              
+           M 950710   SG  SG      N N
+ 13) QDB3WH Bin Zulkhairi             Afiq Hazim                               
+           M 971117   SG  SG      N N
+ 14) QDB3WH Binte Ali                 Alinah                                   
+           F 710822   SG  SG      N N
+ 15) JYNRTN Binte Ali                 Aliza                                    
+           F 720913   SG  SG      N N
+ 16) W93K2D Binte Morate              Azizah                                   
+           F 500402   SG  SG      N N
+ 17) JYNRTN Binte Raziz               Nurin Hazira                             
+           F 010401   SG  SG      N N
+ 18) KBQETK Binte Sharwan             Siti Mardiaah                            
+           F 571229   SG  SG      N N
+ 19) QDB3WH Binte Zulkhairi           Wafa Nabella                             
+           F 941019   SG  SG      N N
+ 20) W93K2D Bte Morate                Sarifah                                  
+           F 521125   SG  SG      N N
+ 21) G6MTJJ Bte Muhamed               Hairiani                                 
+           F 821128   SG  SG      N N
+ 22) MYYCNQ caroline                  caroline                                 
+           F 851117   ID  AU      N N
+ 23) I6HPRM Chang                     Yih Long                                 
+           M 730811   SG  SG      N N
+ 24) Y6MN6M DHAMAJANTI                TETTY                                    
+           F 430815   ID  ID      Y N    P              R996956 240613  ID
+ 25) L6TVWM DHARMAMULIA               LIENY                                    
+           F 740618   SG  SG      Y N    P                   SG 280912  SG
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 26) C9BJGQ DIYANA                    DIYANA                                   
+           F 850220   ID  ID      Y N    P             AM452277 241211  ID
+ 27) RZR5JB ELMADYA                   LUCIEANNA                                
+           F 480120   ID  ID      Y N    P              p143029 260112  ID
+ 28) L5KVPP FANNY                     FANNY                                    
+           F 770730   ID  ID      Y N    P              V601962 040815  ID
+ 29) E4ID9P FIRDAUS                   FIRMAN                                   
+           M 760901   ID  ID      Y N    P             U 072081         ID
+ 30) V8VWUW FRANAJAYA                 ALVIN                                    
+           M 700910   ID  ID      Y N    P              u371907 050115  ID
+ 31) M3UZGF FUT NJAN                  LIE                                      
+           M 430224   ID  ID      Y N    P              B863674 151111  ID
+ 32) L8CE4T GOUW                      SHARLEEN                                 
+           F 890825   ID  SG      Y N    P             U 110461 180115  SG
+ 33) QD4CPX HAKIM                     EVI                                      
+           F 720912   ID  ID      Y N    P              P084722 020212  ID
+ 34) Y6MN6M HALIMATMADJA              KOSASIH                                  
+           M 390817   ID  ID      Y N    P              T693545 190814  ID
+ 35) Y6MN6M HALIMATMADJA              YETY SETYAWATI                           
+           F 750102   ID  ID      Y N    P              R996953 240613  ID
+ 36) E5CETP HANAFI                    IWAN DERMAWAN                            
+           M 520420   ID  ID      Y N    P              u816274 260315  ID
+ 37) E4ID9P HANUM                     CHAIRUNISA                               
+           F 820407   ID  ID      Y N    P             W 564295         ID
+ 38) V84QGW HERAWATI                  LILIANA                                  
+           F 860710   ID  ID      Y N    P              U461867 290615  ID
+ 39) P7V9PJ HILDA                     HILDA                                    
+           F 830807   ID  ID      Y N    P              w320540 151215  ID
+ 40) K8QNEC HIOE                      ARIF SURYADI                             
+           M 710830   ID  ID      N N
+ 41) KDBEUH HUSSEIN                   ABDUL TALIP                              
+           M 620614   SG  SG      Y N    P            S1532485F 290612  SG
+
+      ID
+      ID
+      ID
+      ID ID ID 
+
+ 42) V8HHSJ HUTAGALUNG                TOTO                                     
+           M 560104   ID  ID      Y N    P             T 687327 110814  ID
+ 43) M3UZGF IRAWAN                    JIMMY                                    
+           M 811121   ID  ID      Y N    P              U565551 040215  ID
+ 44) S8UBWW JANAH                     RAIKHATUL                                
+           F 811121   ID  ID      Y N    P             AN287674 111112  ID
+ 45) V84QGW JIM FUNG                  HEUW                                     
+           F 570618   ID  ID      Y N    P              U461869 290115  ID
+ 46) MYYCNQ julianto                  hansen                                   
+           M 841210   ID  ID      N N
+ 47) XC1UMN JUNARSA                   DAVID                                    
+           M 540906   ID  ID      Y N    P             U 923703 130415  ID
+ 48) R6B5VP KHAYATI                   KHAYATI                                  
+           F 810715   ID  SG      Y N    P              U724958 050415  SG
+ 49) Q5D9MC KURNIAWATI                TETI                                     
+           F 851003   ID  ID      Y N    P             AM454260 090112  ID
+ 50) P9SJMD KUSNIAWATI                NENGSIH                                  
+           F 810525   ID  ID      Y N    P            AM 451345 191211  ID
+ 51) E3TC6C LABRADOR                  LEAH CARMEL                              
+           F 650421   PH  PH      Y N    P            XX3039780 160214  PH
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 52) B63D4J LEE                       LING SAN                                 
+           F 791212   SG  SG      Y N    P            S7940192G 171113  SG
+
+      Y
+      Y
+      Y
+      Y Y  
+
+ 53) Y2PL6Y LIU                       KWIE LING                                
+           F 491108   AN  AN      Y N    P            NV3C00H68 260515  AN
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 54) Y2PL6Y LIU                       WEN HWA RUFINA                           
+           F 410630   AN  AN      Y N    P             NVLB6895 180815  AN
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 55) B4UQNP LUCIANUS                  IWAN                                     
+           M 401028   ID  ID      Y N    P                   ID 210512  ID
+ 56) F2ENYY MAE                       MAESAROH                                 
+           F 651110   ID  ID      Y N    P              R913286 240613  ID
+ 57) E2Z6JI MAHENDRA                  JANE                                     
+           F 800912   ID  ID      Y N    P                   ID 291115  ID
+ 58) O1VH2Y MARTHEANA TEDJAWIDJAJA    ANNA                                     
+           F 471213   ID  ID      Y N    P             S 952443 200214  ID
+ 59) F9TUAL MOHAMAD SUHAILI           ISMAIL                                   
+           M 770320   MY  MY      N N
+ 60) F9WKDH MOHAMED                   HASBULLAH                                
+           M 871126   SG  SG      Y N    P            S8738315F 080715  SG
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 61) NY8YNQ MUAYANA                   MS                                       
+           F 850521   ID  ID      Y N    P             AM564017 170212  ID
+ 62) XYCYYT NOTOMULJO                 ANDY                                     
+           M 760720   ID  ID      Y N    P              S676727 221213  ID
+ 63) DCZZYK NOVITASARI                LUSIANA                                  
+           F 920113   ID  ID      Y N    P              t914509 150914  ID
+ 64) Q4WNGS Nuriah                    Nuriah                                   
+           F 780602   ID  SG      N N
+ 65) DCZZYK NURYATI                   ATI                                      
+           F 671224   ID  ID      Y N    P              t806059 140914  ID
+ 66) V84QGW NYUK FUNG                 HEUW                                     
+           F 650416   ID  ID      Y N    P              v980887 141015  ID
+ 67) XC1UMN OKING                     LILYANA                                  
+           F 581028   ID  ID      Y N    P             U 923702 130415  ID
+ 68) XC1UMN OKING                     PIPIN ARIFFIEN                           
+           M 450523   ID  ID      Y N    P             T 363214 300614  ID
+ 69) VCVHSK PATRICIA                  MONA                                     
+           F 860918   ID  ID      Y N    P              S293228 040913  ID
+ 70) I6WZ7J PURNOMO                   FRANSISCA                                
+           F 790425   ID  ID      Y N    P                   ID 140114  ID
+ 71) X4MI6S PUSPARINI                 NOVITA                                   
+           F 810709   ID  ID      Y N    P             T 483552 210714  ID
+ 72) V8HHSJ RAHMAWATI                 FITRIA                                   
+           F 890512   ID  ID      Y N    P             S 674817 171213  ID
+ 73) F9WKDH RAKIBAN                   FADRINSHAH                               
+           M 880504   SG  SG      Y N    P                   SG 300615  SG
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 74) F9TUAL SAHARI                    KADIR                                    
+           M 590719   MY  MY      N N
+ 75) GD477E SALIM                     MINURAENY                                
+           F 620805   ID  ID      Y N    P              U684766 050315  ID
+ 76) GD477E SALIM                     PARTIANY                                 
+           F 291001   ID  ID      Y N    P              S247847 120813  ID
+ 77) O1VH2Y SASMITA                   BARLI                                    
+           M 441017   ID  ID      Y N    P             S 952444 200214  ID
+ 78) M3UZGF SAU YIT                   KO                                       
+           F 491010   ID  ID      Y N    P              P250715 080312  ID
+ 79) M34QKI SAVERO SUHENDRA           FERNANDO                                 
+           M 940809   ID  ID      Y N    P             t 805208 240814  ID
+ 80) N9GHBB SEN                       TJIN                                     
+           M 811003   ID  ID      N N
+ 81) V8VWUW SETIADI                   RUSIANA                                  
+           F 710402   ID  ID      Y N    P              U371910 050115  ID
+ 82) W88IKJ SETIADI TEDJA             APING                                    
+           M 650103   ID  SG      Y N    P              v122593 031115  SG
+ 83) S5TZJP SETIAWAN                  HERLIANI ISKANDAR                        
+           F 860529   ID  ID      Y N    P              R916556 270513  ID
+ 84) Z1KWPB SETIAWAN                  HERLIANTI ISKANDAR                       
+           F 910107   ID  ID      Y N    P             R 916560 270513  ID
+ 85) SYRMFA SETYADI                   JENNY SETYADI                            
+           F 630607   ID  ID      Y N    P             U 073915 021114  ID
+ 86) TYCKDF YENI                      SETYANI                                  
+           M 781025   ID  ID      Y N    P              T480075 060714  ID
+ 87) L8CE4T SIU TJIE                  KO                                       
+           F 570717   ID  ID      Y N    P             V 985928 021115  ID
+ 88) B26K4V SOEGIANTO                 ELLIES                                   
+           F 550427   ID  ID      Y N    P              V981437 181015  ID
+ 89) UC5M8X SOEPARMADJI PARTO WIDJOJO SURYANTO                                 
+           M 570125   ID  ID      Y N    P              P564781 280512  ID
+ 90) ZBSGUA SUBRAMANIAM               RAMOO                                    
+           M 550306   MY  MY      Y N    P                   MY 020815  MY
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+ 91) MCB8PK SUNARDI                   CHERYL                                   
+           F 890608   ID  ID      Y N    P              R997213 250613  ID
+ 92) X6IFQP SUPIYAH                   SUPIYAH                                  
+           F 810725   ID  ID      Y N    P              P876684 231112  ID
+ 93) N62F7M SURIPAH                   SURIPAH                                  
+           F 801123   ID  ID      Y N    P             AL403344 240311  ID
+ 94) E2Z6JI SURYAWINATA               IRSAN                                    
+           M 780319   ID  ID      Y N    P                   ID 010714  ID
+ 95) UC5M8X SUWANDANINGSIH SOEYITNO   FLORENTINA                               
+           F 620620   ID  ID      Y N    P              P564785 290512  ID
+ 96) SYRMFA SYAHLIM                   HENDRY DJAJA ROBERTU                     
+           M 601029   ID  ID      Y N    P             U 073913 021114  ID
+ 97) B4UQNP SYLVIANO                  LUCIANY                                  
+           F 570903   ID  ID      Y N    P                   ID 160613  ID
+ 98) I6WZ7J TAN                       RATNAWATI                                
+           F 490530   ID  ID      Y N    P                   ID 210612  ID
+ 99) I6WZ7J TANUMULYANI               YANI                                     
+           F 520105   ID  ID      Y N    P                   ID 230714  ID
+100) NYRRMA TANUWIJAYA                ROHANI                                   
+           F 641129   ID  ID      Y N    P              P563540 240512  ID
+101) NYRRMA TANUWIJAYA                RYO                                      
+           M 891207   ID  ID      Y N    P              U373690 110115  ID
+102) NYRRMA TANUWIJAYA                ZHAKHARIA                                
+           M 641129   ID  ID      Y N    P              V593958 270715  ID
+103) V84QGW TEK HIANG                 TJONG                                    
+           M 500914   ID  ID      Y N    P              U461871 290115  ID
+104) L3BZ2F THENAWIDJAJA              ALI                  GHANDI              
+           M 731113   ID  ID      Y N    P             W 784777         ID
+105) L3BZ2F THENAWIDJAJA              ALICIMON                                 
+           M 710119   ID  ID      Y N    P             W 815720         ID
+106) L3BZ2F THENAWIDJAJA              ALIJANTO                                 
+           M 430219   ID  ID      Y N    P             P 825756         ID
+107) B63D4J TIAN                      EE LIN                                   
+           F 830814   SG  SG      Y N    P  S8324460G/E2061701J 181115  SG
+
+      Y
+      Y
+      Y
+      Y Y  
+
+108) B4UQNP TJENDRAWASIH              RUSMIATTY                                
+           F 391108   ID  ID      Y N    P                   ID 211015  ID
+109) L5KVPP TJHO                      TJUN LIUNG                               
+           M 760207   ID  ID      Y N    P              V602466 060815  ID
+110) Q8TRJG TJIONG                    WILLIEM                                  
+           M 781118   ID  ID      Y N    P                   ID 030915  ID
+111) EYV7VN TURIYAH                   TURIYAH                                  
+           F 850915   ID  ID      Y N    P              V125471 151215  ID
+112) TYCKDF WAHBAN HILAL              ESMOREIT                                 
+           M 450429   ID  ID      N N
+113) TYCKDF WAHBAN HILAL              KALINGGA                                 
+           M 061108   ID  ID      Y N    P              T482126 140714  ID
+114) TYCKDF RONALD WAHBAN HILAL       HILAL                                    
+           M 720302   ID  ID      Y N    P              T480077 060714  ID
+115) B63D4J WANG                      HUI YI AMY                               
+           F 790706   SG  SG      Y N    P  S7919096I/E0902222F 310314  SG
+
+      Y
+      Y
+      Y
+      Y Y  
+
+116) I6WZ7J WIBAWA                    NOVI MULIANA                             
+           F 851120   ID  ID      Y N    P                   ID 060513  ID
+117) O8SSMG WIBOWO                    NERIA KARTIKA                            
+           F 811218   ID  ID      Y N    P              P496149 150812  ID
+118) O8SSMG WIBOWO                    TIRZA NUGRAHENI                          
+           F 781217   ID  ID      Y N    P             U 694895 150215  ID
+119) RZR5JB WIDJAJA                   NOVIA                                    
+           F 751115   ID  ID      Y N    P              b788767 101011  ID
+120) K8ZKMW WIDJAJA                   PETTY HERWATY                            
+           F 510914   ID  ID      Y N    P              T676463 280714  ID
+121) K8ZKMW WIDJOJO                   HARSONO                                  
+           M 490803   ID  ID      Y N    P              T676462 280714  ID
+122) G81VUW WIPRAECHTIGER             JUERG                                    
+           M 490515   CH  CH      Y N    P             F4062087 170220  CH
+
+      CH
+      CH
+      CH
+      CH CH CH 
+
+123) I79CWZ WIRANTI                   DEWI                                     
+           F 860506   SG  ID      Y N    P             AN318942 161212  ID
+
+      ID
+      ID
+      ID
+      ID ID ID 
+
+124) O8SSMG XENOPHANES                CHRISTIAN                                
+           M 781027   ID  ID      Y N    P             U 694897 150215  ID
+125) N5UFVP YATIMAH                   YATIMAH                                  
+           F 850918   ID  ID      N N
+126) VCVHSK YONATHAN                  ERWIN                                    
+           M 910407   ID  ID      Y N    P              T016527 200314  ID
+127) Y6QEXP YONG                      AH MOY                                   
+           F 760121   SG  SG      Y N    P                   SG 071211  SG
+
+      Y
+      Y
+      Y
+      Y Y Y 
+
+128) X97DLH YULISTYANINGRUM           YOHANA                                   
+           F 880710   ID  ID      N N
+129) TYCKDF YUNIARTIN K               TINA                                     
+           F 440902   ID  ID      N N
+

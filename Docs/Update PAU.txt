@@ -1,0 +1,8 @@
+1. minta wn attention tambah window.
+2. passport ga keluar pas impor di attention.
+3. numbering recent import harus sequensial.
+4. ada reservation country.
+
+----- Kamis 3 Mei 2012	
+1. Clear Search ga jalan.
+2. Attentions ga dari semua data.

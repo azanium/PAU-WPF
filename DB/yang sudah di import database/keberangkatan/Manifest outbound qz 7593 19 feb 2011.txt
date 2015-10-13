@@ -1,0 +1,170 @@
+                               AirAsia Indonesia
+20Feb11 09:17                     Flight Close                      By:5790a     
+
+                   Flight:  7593 BDOKUL  Date:  19Feb11/1200
+================================================================================
+Totals:
+Manifested             -    110           Checked-in/Boarded           -     104
+Unconfirmed            -      0           No Shows                     -       6
+Stand-by Pax           -      0           Cleared Stand-by Pax         -       0
+Thru Manifested        -      0           Thru Checked-in/Boarded      -       0
+Thru No - shows        -      0
+Total Manifested       -    110           Total Checked-in             -     104
+
+Inf. Manifested        -      1           Inf. Checked-in/Boarded      -       1
+Child Manifested       -      1           Child Checked-in/Boarded     -       1
+Female Manifested      -     46           Female Checked-in/Boarded    -      44
+Male Manifested        -     63           Male Checked-in/Boarded      -      59
+
+Flt Cpns Possible      -      0           Flt Cpns Required            -       0
+
+Total Bag Checked      -    112           Total Bag Weight             -    1186
+
+Pax Checked-In by Zone
+
+                      M   F   C TTL   I
+   Zone 1     1-6 :   5   7   1  13   0
+   Zone 2    7-17 :  24  24   0  48   1
+   Zone 3   18-26 :  30  13   0  43   0
+                    --- --- --- --- ---
+  Totals:            59  44   1 104   1
+
+                                          Fare     Seq         Seat
+Cnt Name                       LVL PNR    Class    No  Date    No     CDst Flt 
+--- -------------------------- --- ------ -------- --- ------- ------ ---- ----
+Checked-in/Boarded:
+1   Abd Latip,Anuar Sanusi         LEKDJR V        102 08Feb11     7C 0KUL 7593
+2   Abd Rani,Norazliha             C5U1NM A         14 06Jan11     9E 0KUL 7593
+3   abdul majid,noor azizan        D7ILMW V         63 16Feb11     1F 0KUL 7593
+4   ABDUL RASHID,RASIMAH           T9EPED E          3 18May10    15C 0KUL 7593
+5   adiwisastra,suwarlan           XCYR7K V         90 11Feb11    25F 0KUL 7593
+6   AHMAD,RAZAK                    WC5VXN V         23 11Jan11    11E 0KUL 7593
+7   Ali,Norrosmawati               C5U1NM A         15 06Jan11    20A 0KUL 7593
+8   Aloina Ita Tarigan,Debora      I2YPUY A         58 20Oct10     8B 0KUL 7593
+9   AMINAH,AMINAH                  J742PZ V        101 15Feb11    21F 0KUL 7593
+10  ang,bobby                      B8RJYT V         70 07Feb11    19C 0KUL 7593
+11  ANISSA SUDIHARTANTI,SITI       U42JQV A         10 19Oct10    17A 0KUL 7593
+12  Awang,Haziah                   C5U1NM A         16 06Jan11     9B 0KUL 7593
+13  AWANG,MOHAMMAD                 WC5VXN V         27 11Jan11    17E 0KUL 7593
+14  BEBEN,BEBEN                    K7K9NJ V         95 18Feb11    21A 0KUL 7593
+15  BIN DAUD,MOHD NAJID            NCND5U A         87 29Aug10     6E 0KUL 7593
+16  BINTI MAT ALI,NURUL AINI       NCND5U A         88 29Aug10     6F 0KUL 7593
+17  che pee,ruslan                 X3ZYQL V         64 07Feb11    24C 0KUL 7593
+18  Daud,Mohd Razi                 Z7QFXM A         45 06Jan11    10E 0KUL 7593
+19  Deraman,Mohd Latif             Z7QFXM A         46 06Jan11    19D 0KUL 7593
+20  Dollah,Mek Esah                I34KFV V         26 26Jan11     8A 0KUL 7593
+21  EMBONG,MOHD ROZALI             WC5VXN V         28 11Jan11    18A 0KUL 7593
+22  HANDAYANI,MIA                  M6NS7J E         11 19Oct10    16D 0KUL 7593
+23  harun,nazihan                  VYUVRQ V        105 08Feb11    23A 0KUL 7593
+24  HASAN,NAWAWI                   WC5VXN V         29 11Jan11    17B 0KUL 7593
+25  Hassan,Bahiah                  C5U1NM A         17 06Jan11    19A 0KUL 7593
+26  Hassan,Wan Mohd Najib          Z7QFXM A         47 06Jan11    10F 0KUL 7593
+27  HASSAN SHUKRI,MUHAMMAD ADI     I9B3CA E          9 18May10    16C 0KUL 7593
+28  HASSAN SHUKRI,NABIHAH          T9EPED E          5 18May10    15E 0KUL 7593
+29  HAZNI,HAZRINA                  U9RDAG I         80 20May10     6B 0KUL 7593
+30  HIDAYAT,DANY TAUFIQ            K7K9NJ V         96 18Feb11    21E 0KUL 7593
+31  HILAL,AZIZ                     Y1EDKB V         59 17Feb11    18F 0KUL 7593
+32  HJ WAN HASAN,WAN ZAKIAH        WC5VXN V         30 11Jan11    11A 0KUL 7593
+33  hok siong,kwe                  EEMCNB A         83 06Jan11    20C 0KUL 7593
+34  HUSSEIN,HASSAN SHUKRI          T9EPED E          2 18May10    15B 0KUL 7593
+35  HUSSEIN,NOOR HASHIMAH          T9EPED E          1 18May10    15A 0KUL 7593
+36  Ibrahim,Abdul Latif            Z7QFXM A         48 06Jan11    19E 0KUL 7593
+37  IBRAHIM,ISMAIL                 WC5VXN V         31 11Jan11    18E 0KUL 7593
+38  Jali,Rohani                    C5U1NM A         18 06Jan11    20B 0KUL 7593
+39  Jamaluddin,Julia               R3SZFF A         78 12Aug10    22C 0KUL 7593
+40  jusoh,ayub                     Y4Y3HV V         54 03Feb11    25E 0KUL 7593
+41  Jusoh,Noor Farida Aliza        C5U1NM A         19 06Jan11     9F 0KUL 7593
+42  Jusoh,Zakaria                  Z7QFXM A         49 06Jan11    10B 0KUL 7593
+43  Kristiadi,Marcia Renata        X7SM9J V         68 10Feb11    24F 0KUL 7593
+44  kwe,Inggrid Natalia            EEMCNB A         84 06Jan11    20D 0KUL 7593
+45  LATIF,ZAINON                   UEJ98R A         41 11Jan11    23C 0KUL 7593
+46  Latip,Johari                   Z7QFXM A         50 06Jan11    19F 0KUL 7593
+47  LESTARI DANDAN,KERI            ZBUEFN V         74 19Feb11     2F 0KUL 7593
+48  LINDA SUDIHARYATI,IRMA         M6NS7J E         13 19Oct10    16F 0KUL 7593
+49  ling,siew king                 ZC8EWN A         55 14Nov10     1A 0KUL 7593
+50  MAHMUD,ANUAR                   UEJ98R A         42 11Jan11    23E 0KUL 7593
+51  MAMAT,LOP@LUTH                 WC5VXN V         33 11Jan11    17D 0KUL 7593
+52  MAMAT,MAZIAH                   WC5VXN V         34 11Jan11    11F 0KUL 7593
+53  Mardira,Levin Kristian         X7SM9J V         69 10Feb11    24E 0KUL 7593
+54  md ali,mohamad jamil           X3ZYQL V         65 07Feb11    24B 0KUL 7593
+55  MOHAMED,MAT DIN                WC5VXN V         35 11Jan11    17F 0KUL 7593
+56  Mohamed,Siti Arupah            C5U1NM A         20 06Jan11     9A 0KUL 7593
+57  Mohd Amin,Abdul Rani           Z7QFXM A         51 06Jan11    10A 0KUL 7593
+58  Mohd Din,Zahari                Z7QFXM A         52 06Jan11    10D 0KUL 7593
+59  Mohd hafez,bin ibrahim         RZUESB A         82 13Nov10    22D 0KUL 7593
+60  MOHD NAJIB,ARMAN KHADRI        WC5VXN V         25 11Jan11    17C 0KUL 7593
+61  MOHD ZAIN,MOHD SABRI           UEJ98R A         43 11Jan11    23B 0KUL 7593
+62  MOHD ZAKARIA,KAMARUDDIN        WC5VXN V         36 11Jan11    11D 0KUL 7593
+63  MOKHTAR,MUHAMAD NABIL          ABCPCI A         98 24May10    14E 0KUL 7593
+64  NILAWATI,JASURI                O53WFC V        100 08Feb11    22B 0KUL 7593
+65  NOR SHAKIMAN,AIDA RAWAIDA      W8T5VW E          8 19Oct10    16B 0KUL 7593
+66  NOR SHAKIMAN,AIMI HANNANI      T9EPED E          7 18May10    16A 0KUL 7593
+67  NOR SHAKIMAN,NUR RAHIMAH       T9EPED E          6 18May10    15F 0KUL 7593
+68  NURDIN,M FADHIL                K7K9NJ V         93 18Feb11    21D 0KUL 7593
+69  OMAR,ABDULLAH                  NE66NE V         57 23Nov10    22A 0KUL 7593
+70  OTHMAN,NOOR AIMI               U9RDAG I         81 20May10     6A 0KUL 7593
+71  Puspita Arza,Regina            A6NNXZ V         72 19Feb11     2D 0KUL 7593
+72  RAHMAT,HANIZAN                 WC5VXN V         37 11Jan11    11C 0KUL 7593
+73  RASHIDDIN,WAN MOHD ARIFF       UEJ98R A         44 11Jan11    23F 0KUL 7593
+74  redas,alex vincy               B8RJYT V         71 07Feb11    19B 0KUL 7593
+75  Riza Wardana,Dandan            N7LJYZ V         75 19Feb11     1D 0KUL 7593
+76  Rizki Zharfan Argi,Candika     A6NNXZ V         73 19Feb11     2E 0KUL 7593
+77  sabri,syikh sazli              X3ZYQL V         66 07Feb11    24D 0KUL 7593
+78  SAID,BAHARUM                   WC5VXN V         38 11Jan11    18B 0KUL 7593
+79  Saman,Jemain                   F8RYUT A         61 17Dec10    26D 0KUL 7593
+80  SAMSUDIN,AZEERA                ABCPCI A         99 24May10    14F 0KUL 7593
+81  SANTI,SANTI                    L9VY5A V         60 15Feb11     7A 0KUL 7593
+82  SATHYANA,AWAN                  M6NS7J E         12 19Oct10    16E 0KUL 7593
+83  SETIJADI,DENI KUSDIAN          M378NI V         97 18Feb11     7E 0KUL 7593
+84  SHAFEE,NORFADHILAH             WC5VXN V         24 11Jan11    11B 0KUL 7593
+85  Sujana,Sujana                  EEMCNB A         85 06Jan11    20E 0KUL 7593
+86  Suryadireja,Irfan              N7LJYZ V         89 19Feb11     1E 0KUL 7593
+87  SUTRISNO,SUTRISNO              M378NI V         92 18Feb11     7D 0KUL 7593
+88  SYAMSIR,DEVI ROSMY             U9RDAG I         79 20May10     6C 0KUL 7593
+89  SYAMSUDIN,UMI HAYATI           K7K9NJ V         91 18Feb11    21B 0KUL 7593
+90  TAJUDIN,TAJUDIN                U9CCFT A        106 18Nov10    22E 0KUL 7593
+91  TOHRI,TUTY                     K7K9NJ V         94 18Feb11    21C 0KUL 7593
+92  ukong,helen                    N5ZGFC V         67 27Jan11     7F 0KUL 7593
+93  WAN HASSAN,WAN ROSLI           Z2S2HL V        104 06Feb11    25D 0KUL 7593
+94  Wan Hussin,Wan Rogayah         C5U1NM A         21 06Jan11     9D 0KUL 7593
+95  WAN SULONG,WAN ZAINAB          T9EPED E          4 18May10    15D 0KUL 7593
+96  wong,hau hwong                 ZC8EWN A         56 14Nov10     1B 0KUL 7593
+97  Yulia,Wulan                    F8RYUT A         62 17Dec10    26E 0KUL 7593
+98  YUNITA,ENGKAY                  X1DKMB V         86 11Feb11    24A 0KUL 7593
+99  Yusof,Mohd Tajul Ariffin       LEKDJR V        103 08Feb11     7B 0KUL 7593
+100 Yusoff,Sipuan                  C5U1NM A         22 06Jan11     9C 0KUL 7593
+101 Zakaria,Mohd                   Z7QFXM A         53 06Jan11    10C 0KUL 7593
+102 ZAKARIA,MOHD ZAIDI             WC5VXN V         39 11Jan11    18D 0KUL 7593
+103 ZAMANI,NUR NATIESHA            H6M8GZ V         76 11Feb11     8F 0KUL 7593
+   INFT: MOHAMAD FAIRUL,AGUNG ISHMAEL                      
+104 ZAMANI,NUR QYALIESSA           H6M8GZ V         77 11Feb11     8C 0KUL 7593
+
+No Shows:
+1   CHE MAT,CHE YUSOF              U9RDAG I          0 20May10     6D 0KUL 7593
+2   CHE NOH,GHAZALI                UEJ98R A          0 11Jan11        0KUL 7593
+3   HAIDZIR,MOHD HAILANEY          H5P2KM E          0 19Jul10     8E 0KUL 7593
+4   IDRIS,KAMARULAZMAN             WC5VXN V          0 11Jan11        0KUL 7593
+5   OMAR,HANITA                    U9RDAG I          0 20May10    22F 0KUL 7593
+6   TUNKU KUDIN,TUNKU ZURIATI      H5P2KM E          0 19Jul10     8D 0KUL 7593
+
+Thru Checked-in/Boarded
+There are 0 Thru Pax who have checked-in/Boarded...
+
+Thru No Shows
+There are 0 thru No Shows on this flight...
+
+Unconfirmed
+There are 0 unconfirmed on this flight...
+
+                                              Fare     Priority
+Cnt Name                               PNR    Class    Code     Date    Dst 
+--- ---------------------------------- ------ -------- -------- ------- ----
+Stand-by
+There are 0 Stand-By on this flight...
+
+                                            (1,4)
+Cnt Name                             PNR    Class    Seq No Date    Seat No
+---       -------------------------- ------ -------- ------ ------- -------
+Unapproved Stand - by status:
+There are 0 unapproved stand-by pax on this flight...
+

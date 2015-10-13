@@ -1,0 +1,200 @@
+                               AirAsia Indonesia
+18Feb11 14:06                     Flight Close                      By:5601a     
+
+                   Flight:  7594 KULBDO  Date:  18Feb11/1530
+================================================================================
+Totals:
+Manifested             -    139           Checked-in/Boarded           -     125
+Unconfirmed            -      0           No Shows                     -      14
+Stand-by Pax           -      0           Cleared Stand-by Pax         -       0
+Thru Manifested        -      0           Thru Checked-in/Boarded      -       0
+Thru No - shows        -      0
+Total Manifested       -    139           Total Checked-in             -     125
+
+Inf. Manifested        -      2           Inf. Checked-in/Boarded      -       2
+Child Manifested       -      3           Child Checked-in/Boarded     -       2
+Female Manifested      -     64           Female Checked-in/Boarded    -      59
+Male Manifested        -     72           Male Checked-in/Boarded      -      64
+
+Flt Cpns Possible      -      0           Flt Cpns Required            -       0
+
+Total Bag Checked      -     68           Total Bag Weight             -     757
+
+Pax Checked-In by Zone
+
+                      M   F   C TTL   I
+   Zone 1     1-6 :  13  13   0  26   2
+   Zone 2    7-17 :  26  28   1  55   0
+   Zone 3   18-26 :  25  18   1  44   0
+                    --- --- --- --- ---
+  Totals:            64  59   2 125   2
+
+                                          Fare     Seq         Seat
+Cnt Name                       LVL PNR    Class    No  Date    No     CDst Flt 
+--- -------------------------- --- ------ -------- --- ------- ------ ---- ----
+Checked-in/Boarded:
+1   abas,ashardi                   K7UQSW E          3 19Oct10     8A 0BDO 7594
+2   ABD RAHIM,SALIM                A1KIGY P         43 15Feb11    17F 0BDO 7594
+3   ABD RAHIM,SALMAH               A1KIGY P         44 15Feb11    17C 0BDO 7594
+4   Abd Rahman,Sabariah            K44QRF V         64 19Jan11     8D 0BDO 7594
+5   ABDUL RAHMAN,ZABIHAH           W79Z8Z V          9 14Feb11    16C 0BDO 7594
+6   Abdullah,Firdaus               G211UL L        107 17Feb11     4C 0BDO 7594
+7   ABDULLAH,KAMARUDDIN            W96ZBA E         89 18May10    18B 0BDO 7594
+8   ABDULLAH,MOHD FAREEZ           WB56GA O         70 10Jan11     5E 0BDO 7594
+9   abdullah,mohd shahrun naim     QZLNHB A         59 06Jan11    24F 0BDO 7594
+10  ahmad,rashidah                 O86YQW E         34 19Oct10    23C 0BDO 7594
+11  AHMAD,ROZIAH                   F19V4Y O         83 10Jan11    11B 0BDO 7594
+12  AHMAD KAMAL,SITI NURUL NOO     DEJ9MB O         10 10Jan11    15F 0BDO 7594
+13  ALIAS,BADRUL HISHAM            L3993F A          7 11Jan11    16A 0BDO 7594
+14  Amin,Mohd Allief               NBFLSN F        113 07Feb11     2A 0BDO 7594
+15  Amin,Nor Azini                 Q9PSVT F        121 07Feb11     3A 0BDO 7594
+   INFT: MOHAMMED ZAIHAN,NUR QASEH ALEESYA                 
+16  amin,noraidura                 NBFLSN F        117 07Feb11     2B 0BDO 7594
+17  Amon,Mohd Rahim                Z59J3C V         73 19Jan11    12E 0BDO 7594
+18  ANANTO,ANANTO                  Z6HVMP V         41 11Feb11    12D 0BDO 7594
+19  ashardi,alyssa safiya          K7UQSW E          6 19Oct10     8C 0BDO 7594
+20  AWANGKU MOHD ZIN,DAYANGKU      I96BBC E         49 18May10    20E 0BDO 7594
+21  BAJURI,NGADIYO                 C6JYGJ A         16 15Nov10     6B 0BDO 7594
+22  BIBET,MOHD KHASAN FARID        IDPMFE V         58 08Feb11     7F 0BDO 7594
+23  Bin Latih,Shaharuddin          J467FS A         50 04Jan11    12B 0BDO 7594
+24  Binti Abdullah,Adibah          K821NW V         51 13Jan11    12C 0BDO 7594
+25  BINTI SAIMI,PARAKIYA           LEDF5B A         22 05Jan11    22B 0BDO 7594
+26  chan,hui fen                   N781JZ P        126 16Feb11    23E 0BDO 7594
+27  chan,hui li                    N781JZ P        123 16Feb11    15C 0BDO 7594
+28  chan,hui shan                  N781JZ P        125 16Feb11    23F 0BDO 7594
+29  Chandra,Robby                  LF2DHB P         29 16Feb11    11D 0BDO 7594
+30  GHAZALI,NUROOL ASYIKIN         FDISGE F        112 09Feb11    17A 0BDO 7594
+31  GHAZALI BIN MUSTAFFA,GHAZA     K7D1FJ S        119 18Feb11     1A 0BDO 7594
+32  HADIYAN,DEDI                   J71BYZ A         38 06Oct10    20F 0BDO 7594
+33  HAMDZAH,MOHD ASRI              P9FZAF E         91 18May10    23B 0BDO 7594
+34  HASAN,MOHAMMED ZAIHAN          Q9PSVT F        118 07Feb11     3B 0BDO 7594
+35  hashim,ibrahim                 C5YP6M L         71 16Feb11    26A 0BDO 7594
+36  Hashim,Mariah                  ZBI2JA P         82 15Feb11     5B 0BDO 7594
+37  hashim,rohaizad                B2ICPI L         63 16Feb11    25B 0BDO 7594
+38  Hassan,Anim                    G211UL L        106 17Feb11     5D 0BDO 7594
+39  HASSAN NAZRI,HAZRUL IRWAN      TD4U2U I         94 13Oct10    25F 0BDO 7594
+40  HAYATI,DEDEH                   K9QY2A V         75 08Feb11     7B 0BDO 7594
+41  ibrahim,malek faisal           E38F2S V         98 18Jan11    10B 0BDO 7594
+42  IDRIS,ASMAGHDALEANA            IDPMFE V         55 08Feb11     7E 0BDO 7594
+43  isa,Alyaa farhanna             K7UQSW E          5 19Oct10     9A 0BDO 7594
+44  isa,farahida                   K7UQSW E          4 19Oct10     8B 0BDO 7594
+45  JAHRO,ISYADI ADHA              IDPMFE V         56 08Feb11     6D 0BDO 7594
+46  Jamaludin,Salomi               B6B7JZ P         87 02Feb11     1E 0BDO 7594
+47  Jamaludin,syazwana             B6B7JZ P         86 02Feb11     1F 0BDO 7594
+48  JAMEL,MAHANI                   QC3RJK I        100 14Oct10    25E 0BDO 7594
+49  Jidham,Jolina                  B6B7JZ P         88 02Feb11     1D 0BDO 7594
+50  Kamarudzaman,Athia             K44QRF V         66 19Jan11    21F 0BDO 7594
+51  Kamarudzaman,Mohamad Aziq      K44QRF V         65 19Jan11    21E 0BDO 7594
+52  KASIN,MOHD FAKHRUL HARIZ       IDPMFE V         77 08Feb11     6F 0BDO 7594
+53  kassim,nurdina                 B3WQ8C V         32 04Feb11    10E 0BDO 7594
+54  KEMALUDDIN,MUHAMMED AZLAN      DEJ9MB O         11 10Jan11    15E 0BDO 7594
+55  KHOERIYAH,SITI                 K5R38M A         31 02Jan11    21B 0BDO 7594
+56  Kyairol Azlan Ghazali,Kyai     K7D1FJ S        120 18Feb11     1B 0BDO 7594
+57  Lai Ying,Kong                  N299QL A          2 11Jan11    15B 0BDO 7594
+58  LAZIM,ZAHARI                   KDQJ4R V        109 21Jan11     2C 0BDO 7594
+   INFT: ZAHARI,IMAAN MAULANA                              
+59  LUM,MEI YEE                    WZW5MR O        103 10Jan11    14C 0BDO 7594
+60  MAARUF,MUAZ FITRI              IDPMFE V         76 08Feb11     6E 0BDO 7594
+61  MAGDALENA,HAIDA                G1UVUL V         26 18Jan11    19A 0BDO 7594
+62  MALIAN,HOMSIAH                 L4GMQS A         20 15Nov10     6A 0BDO 7594
+63  MANSOR,MASNAH@MAZNAH           FDISGE F        114 09Feb11    17B 0BDO 7594
+64  MARNIAH,MARNIAH                A723VJ A         78 11Jan11    10F 0BDO 7594
+65  MAT ISA,ANDEYBUDIEMAN          IDPMFE V         53 08Feb11     7D 0BDO 7594
+66  Md Farid,Farah Izzaty          K44QRF V         67 19Jan11    21D 0BDO 7594
+67  misnan,norizan                 NBFLSN F        115 07Feb11     4A 0BDO 7594
+68  MOHAMAD,ABD RAHIM              A1KIGY P         45 15Feb11    17E 0BDO 7594
+69  mohamad,fazil                  C5YP6M L         74 16Feb11    26B 0BDO 7594
+70  mohamad rawi,herryzul adir     W3ZHSL V         96 14Feb11    14B 0BDO 7594
+71  mohamed,syaiful huzaimi        QZLNHB A         61 06Jan11    24E 0BDO 7594
+72  MOHAMMED,HILMI                 F19V4Y O         85 10Jan11    11C 0BDO 7594
+73  MOHAMMED ZAIHAN,ADAM ZAFRA     Q9PSVT F        122 07Feb11     3C 0BDO 7594
+74  MOHD NOR,MOHD RAZIF            S426MV V         62 26Jan11    25D 0BDO 7594
+75  mohd rashidi,mohamad nadzr     C5YP6M L         72 16Feb11    26C 0BDO 7594
+76  MOHD RAZALI,IRWAN SHAHREZZ     I96BBC E         48 18May10    20D 0BDO 7594
+77  MOHD YUSOF,ZAMRI               IDPMFE V         52 08Feb11     8E 0BDO 7594
+78  muhamed,shaiful arif shaki     QZLNHB A         60 06Jan11    24D 0BDO 7594
+79  narta,narta                    V816GJ A         24 05Dec10    14A 0BDO 7594
+80  NENI,NENI                      K6CWGM L        127 17Feb11    21A 0BDO 7594
+81  ngah,mohd noor azmi            DDS9GR A         12 10Jan11    16E 0BDO 7594
+82  Noordin,Mohamed Syawal         T3CN3V L         68 17Feb11    26D 0BDO 7594
+83  Nugroho,Rani                   LF2DHB P         30 16Feb11     1C 0BDO 7594
+84  Nuraini,Dedeh                  YYMV3A V         23 15Jan11    14F 0BDO 7594
+85  NURKOLIS,NURKOLIS              QY9KVD V         80 14Feb11    24C 0BDO 7594
+86  Omar,Mohd Afrar                EEPQYB V         95 19Oct10    19E 0BDO 7594
+87  Othman,Nursumarni              MYVQHN A        105 09Jan11     9F 0BDO 7594
+88  P PORT,NUR HAYATI              T4ZWGV L         18 17Feb11    26E 0BDO 7594
+89  PETER MENON JITAB,SUSIE AN     M8JBYW V         42 15Feb11    22E 0BDO 7594
+90  ramdhani,muhammad taufik       YYEYXT V         36 14Feb11    18E 0BDO 7594
+91  ramli,abdul rahim              F5S9SM E         21 20Jul10    19B 0BDO 7594
+92  ramli,aliza                    I3F5PF E         19 20Jul10    20B 0BDO 7594
+93  RESAT,MOHAMAD                  W96ZBA E         90 18May10    18C 0BDO 7594
+94  SAID,NONG                      O4J43C L         54 17Feb11    16D 0BDO 7594
+95  Said,Noor Ramli                Q3M7UI P         92 16Feb11    23A 0BDO 7594
+96  SAID,RAZANA                    L3993F A          8 11Jan11    16B 0BDO 7594
+97  saleh,ramlan                   MYVQHN A        104 09Jan11     9E 0BDO 7594
+98  SAMSUL,BAHRI                   K93PGD I        108 18Oct10     7A 0BDO 7594
+99  SAPTANINGSIH,SRI HARLIANA      ZEFSXH P         47 16Feb11     5C 0BDO 7594
+100 saring,rosinah                 NBFLSN F        116 07Feb11     4B 0BDO 7594
+101 SARIP,ZAIM AIYAD               IDPMFE V         57 08Feb11     8F 0BDO 7594
+102 shafie,nordin                  E38F2S V         99 18Jan11    10C 0BDO 7594
+103 Siew Fen,Ong                   N299QL A          1 11Jan11    15A 0BDO 7594
+104 SITAM,MOHAMMED                 F19V4Y O         84 10Jan11    11A 0BDO 7594
+105 SUDIN,FATIMAH                  A1KIGY P         46 15Feb11    17D 0BDO 7594
+106 SUMIATINI,NENENG               G1UVUL V         27 18Jan11     9B 0BDO 7594
+107 SUPRIATI,ETI                   F9B6CH E         39 18May10    24A 0BDO 7594
+108 SUSWANINGSIH,SRI               F9B6CH E         37 18May10    24B 0BDO 7594
+109 SUYETI,MS                      G1UVUL V         25 18Jan11     9D 0BDO 7594
+110 T Mohd Apandi,T Amir Afend     GCSS7E A         97 20Oct10    20A 0BDO 7594
+111 TAJUDDIN,LAILI MARDZIAH        KDQJ4R V        110 21Jan11     7C 0BDO 7594
+112 tan,siew bee                   N781JZ P        124 16Feb11    15D 0BDO 7594
+113 TINI,SRI                       G1UVUL V         28 18Jan11     9C 0BDO 7594
+114 Umaemi,Umaemi                  L4SL6P V         40 24Jan11    22A 0BDO 7594
+115 WAN DERAMAN,WAN HUSAINI        B8LI3Q V        111 19Jan11    10D 0BDO 7594
+116 WARNITI,WARNITI                M7CLVZ A         79 08Jan11    22D 0BDO 7594
+117 windiati,windiati              YYEYXT V         33 14Feb11    18D 0BDO 7594
+118 Wong,Yi Chwen                  WZW5MR O        101 10Jan11    14D 0BDO 7594
+119 yanto,yanto                    T7RIVZ A         17 04Jan11    26F 0BDO 7594
+120 Yeong,Wai Hong                 WZW5MR O        102 10Jan11    14E 0BDO 7594
+121 YONG,SHIH WEEN                 WB56GA O         69 10Jan11     5F 0BDO 7594
+122 YULIATI,RETNO                  F9B6CH E         35 18May10    25A 0BDO 7594
+123 ZAHID,MUHAMMAD                 A1TE8V A         93 23Oct10    18F 0BDO 7594
+124 Zakaria,Suzila Wati            ZBI2JA P         81 15Feb11     5A 0BDO 7594
+125 zaroman,nor maizura            DDS9GR A         13 10Jan11    16F 0BDO 7594
+
+No Shows:
+1   BESRINAWADI,BESRINAWADI        F4TJTC R          0 08Feb11    19D 0BDO 7594
+2   CHI FUN,CHOI                   E98L2A O          0 10Jan11    10A 0BDO 7594
+3   HASHIM,MOHD HAFIZ              LY5BBD I          0 21May10    22C 0BDO 7594
+4   KAMARUN HALIM,KAMARUL NIZA     S2WT3V E          0 19Jul10    11F 0BDO 7594
+5   Khushwant Singh Gill,Khush     D5E87M S          0 18Feb11        0BDO 7594
+6   mat ali,shaharuddin            O2PEMI E          0 19Jul10    23D 0BDO 7594
+7   MUKTADIR,MUKTADIR              K4F8KS V          0 19Jan11    21C 0BDO 7594
+8   Nonoh,Nonoh                    Z5T9GC V          0 27Jan11    25C 0BDO 7594
+9   PAIR SANG,TAN                  E98L2A O          0 10Jan11    19F 0BDO 7594
+10  RIANA,ETTY                     F4TJTC R          0 08Feb11    19C 0BDO 7594
+11  SOHVINDIR KAUR A/P KARAM,S     D5E87M S          0 18Feb11        0BDO 7594
+12  syed abd halim,sharifah ba     S2WT3V E          0 19Jul10    18A 0BDO 7594
+13  Tanbun Eugene,Johanes Andy     I7Y3YZ V          0 26Jan11    20C 0BDO 7594
+14  tarikat,AFIZAH                 S2WT3V E          0 19Jul10        0BDO 7594
+
+Thru Checked-in/Boarded
+There are 0 Thru Pax who have checked-in/Boarded...
+
+Thru No Shows
+There are 0 thru No Shows on this flight...
+
+Unconfirmed
+There are 0 unconfirmed on this flight...
+
+                                              Fare     Priority
+Cnt Name                               PNR    Class    Code     Date    Dst 
+--- ---------------------------------- ------ -------- -------- ------- ----
+Stand-by
+There are 0 Stand-By on this flight...
+
+                                            (1,4)
+Cnt Name                             PNR    Class    Seq No Date    Seat No
+---       -------------------------- ------ -------- ------ ------- -------
+Unapproved Stand - by status:
+There are 0 unapproved stand-by pax on this flight...
+

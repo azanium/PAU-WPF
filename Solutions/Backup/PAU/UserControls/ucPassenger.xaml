@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="PAU.UserControls.ucPassenger"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:xd="clr-namespace:DevComponents.WpfDock;assembly=DevComponents.WpfDock"
+             xmlns:xe="clr-namespace:DevComponents.WpfEditors;assembly=DevComponents.WpfEditors"
+             xmlns:conv="clr-namespace:PAU.Converters"
+             xmlns:controller="clr-namespace:PAU.Controllers"
+             xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit">
+    
+    <UserControl.Resources>
+        <conv:DateToStringConverter x:Key="dateConverter" />
+    </UserControl.Resources>
+
+    <DockPanel LastChildFill="True">
+        <StackPanel Orientation="Horizontal" Margin="3 3 3 3" DockPanel.Dock="Top" x:Name="pagingPanel">
+            <TextBlock Text="Page" VerticalAlignment="Center" />
+            <xe:IntegerInput x:Name="edtCurrentPage" Value="{Binding Path=CurrentPassengerPage}" Width="50" Height="24" Margin="6 0 6 0" ValueChanged="edtCurrentPage_ValueChanged"/>
+            <TextBlock Text="of" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding Path=TotalPassengerPage}" Margin="6 0 6 0" VerticalAlignment="Center"/>
+            <TextBlock Text="(" Margin="3 0 3 0" VerticalAlignment="Center" />
+            <TextBlock Text="{Binding Path=TotalPassengersCount}" VerticalAlignment="Center" />
+            <TextBlock Text=" records )" Margin="3 0 3 0" VerticalAlignment="Center" />
+            <Button x:Name="btnPrevPage" Width="50" Height="24" Content="Back" Margin="3 3 3 3" Command="controller:Commands.BackPage"/>
+            <Button x:Name="btnNextPage" Width="50" Height="24" Content="Next" Margin="3 3 3 3" Command="controller:Commands.NextPage"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="3 3 3 3" DockPanel.Dock="Top">
+            <TextBlock Text="Search" VerticalAlignment="Center" />
+
+            <ComboBox x:Name="cbxSearchFieldName1" Width="90" Margin="3 3 3 3" SelectedIndex="{Binding Path=SearchCriteriaIndex1, Mode=TwoWay}" >
+                <ComboBox.Items>
+                    <ComboBoxItem Content="First Name" />
+                    <ComboBoxItem Content="Last Name" />
+                    <ComboBoxItem Content="Passport" />
+                    <ComboBoxItem Content="Flight Date" />
+                    <ComboBoxItem Content="Flight No" />
+                </ComboBox.Items>
+            </ComboBox>
+            <TextBox x:Name="tbSearchText1" Width="150" Margin="3 3 3 3" Text="{Binding Path=SearchText1, Mode=TwoWay}"
+                     TextChanged="tbSearchText_TextChanged"/>
+            
+            <ComboBox x:Name="cbxSearchOp" Width="60" Margin="3 3 3 3" SelectedIndex="{Binding Path=SearchSelectedIndex,Mode=TwoWay}">
+                <ComboBox.Items>
+                    <ComboBoxItem Content="AND" />
+                    <ComboBoxItem Content="OR" />
+                </ComboBox.Items>
+            </ComboBox>
+            
+            <ComboBox x:Name="cbxSearchFieldName2" Width="90" Margin="3 3 3 3" SelectedIndex="{Binding Path=SearchCriteriaIndex2, Mode=TwoWay}">
+                <ComboBox.Items>
+                    <ComboBoxItem Content="First Name" />
+                    <ComboBoxItem Content="Last Name" />
+                    <ComboBoxItem Content="Passport" />
+                    <ComboBoxItem Content="Flight Date" />
+                    <ComboBoxItem Content="Flight No" />
+                </ComboBox.Items>
+            </ComboBox>
+            <TextBox x:Name="tbSearchText2" Width="150" Margin="3 3 3 3" Text="{Binding Path=SearchText2, Mode=TwoWay}"
+                     TextChanged="tbSearchText_TextChanged"/>
+            
+            <Button x:Name="btnSearch" Width="100" Height="25" Content="Search" Margin="3 3 3 3"
+                    Click="btnSearch_Click"/>
+            
+            <Button x:Name="btnClearSearch" Width="100" Height="25" Content="Clear Search" Margin="3 3 3 3"
+                    Click="btnClearSearch_Click"/>
+
+            <Button x:Name="btnFindAttention" Width="100" Height="25" Content="Attentions" Margin="3 3 3 3"
+                    Click="btnFindAttention_Click"/>
+
+            <Button x:Name="btnPrint" Width="100" Height="25" Content="Print" Margin="3 3 3 3"
+                    Click="btnPrint_Click"/>
+
+            <CheckBox x:Name="cbxEdit" Margin="20 3 3 3" VerticalAlignment="Center" Content="Edit" Click="cbxEdit_Click"/>
+        </StackPanel>
+        
+        <toolkit:DataGrid x:Name="dgPassenger" ItemsSource="{Binding Path=Passengers}" AutoGenerateColumns="False" 
+                          IsReadOnly="True" 
+                          CanUserAddRows="False" 
+                          RowEditEnding="dgPassenger_RowEditEnding" 
+                          HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"
+                           BeginningEdit="dgPassenger_BeginningEdit"
+                          PreviewMouseDoubleClick="dgPassenger_PreviewMouseDoubleClick"
+                          PreviewKeyDown="dgPassenger_PreviewKeyDown">
+                <toolkit:DataGrid.Columns>
+                    <toolkit:DataGridTextColumn Header="No" Width="50" Binding="{Binding Path=No}" TextBlock.TextAlignment="Center" />
+                    <toolkit:DataGridTextColumn Header="First Name" Width="200" Binding="{Binding Path=FirstName}" />
+                    <toolkit:DataGridTextColumn Header="Last Name" Width="200" Binding="{Binding Path=LastName}" />
+                    <toolkit:DataGridTextColumn Header="Flight Date" Width="70" Binding="{Binding Path=FlightDate, Converter={StaticResource dateConverter}}" />
+                    <toolkit:DataGridTextColumn Header="Flight No" Width="70" Binding="{Binding Path=FlightNo}" />
+                    <toolkit:DataGridTextColumn Header="Booking Date" Width="80" Binding="{Binding Path=Date, Converter={StaticResource dateConverter}}" />
+                    <toolkit:DataGridTextColumn Header="Booking Code" Width="90" Binding="{Binding Path=PNR}" />
+                    <toolkit:DataGridTextColumn Header="Fare Class" Binding="{Binding Path=FareClass}" />
+                    <toolkit:DataGridTextColumn Header="Seq No" Binding="{Binding Path=SEQNo}" />
+                    <toolkit:DataGridTextColumn Header="Seat No" Binding="{Binding Path=SeatNo}" />
+                    <toolkit:DataGridTextColumn Header="Passport" Width="100" Binding="{Binding Path=Passport}" />
+                    <toolkit:DataGridTextColumn Header="Gender" Binding="{Binding Gender}" />
+                    <toolkit:DataGridTextColumn Header="Birth Date" Width="80" Binding="{Binding Path=BirthDate, Converter={StaticResource dateConverter}}" />
+                    <toolkit:DataGridTextColumn Header="Nationality" Width="150" Binding="{Binding Path=Nationality}" />
+                    <toolkit:DataGridTextColumn Header="Notes" Width="150" Binding="{Binding Path=Notes}" />
+                    <toolkit:DataGridTextColumn Header="Picture" Width="150" Binding="{Binding Path=Picture}" />
+
+
+            </toolkit:DataGrid.Columns>
+            </toolkit:DataGrid>
+        
+
+    </DockPanel>
+
+
+</UserControl>

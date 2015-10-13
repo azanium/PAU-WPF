@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="PAU.UserControls.ucDPO"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:xd="clr-namespace:DevComponents.WpfDock;assembly=DevComponents.WpfDock"
+             xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit">
+
+    <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+        <toolkit:DataGrid x:Name="dgDPO" ItemsSource="{Binding Path=DPOS}" AutoGenerateColumns="False"
+                          CanUserAddRows="False" RowEditEnding="dgDPO_RowEditEnding" 
+                          PreviewKeyDown="dgDPO_PreviewKeyDown">
+            <toolkit:DataGrid.Columns>
+                <toolkit:DataGridTextColumn Header="No" Width="50" Binding="{Binding No}" />
+                <toolkit:DataGridTextColumn Header="First Name" Width="200" Binding="{Binding FirstName}" />
+                <toolkit:DataGridTextColumn Header="Last Name" Width="200" Binding="{Binding LastName}" />
+                <toolkit:DataGridTextColumn Header="Passport" Width="200" Binding="{Binding Passport}" />
+                <toolkit:DataGridTextColumn Header="Notes" Width="200" Binding="{Binding Notes}" />
+            </toolkit:DataGrid.Columns>
+        </toolkit:DataGrid>
+
+    </DockPanel>
+    
+</UserControl>

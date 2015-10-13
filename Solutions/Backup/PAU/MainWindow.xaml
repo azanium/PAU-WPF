@@ -1,0 +1,319 @@
+﻿<xr:RibbonWindow x:Class="PAU.MainWindow"                 
+                 xmlns:xd="clr-namespace:DevComponents.WpfDock;assembly=DevComponents.WpfDock"
+                 xmlns:xr="clr-namespace:DevComponents.WpfRibbon;assembly=DevComponents.WpfRibbon"
+                 xmlns:xe="clr-namespace:DevComponents.WpfEditors;assembly=DevComponents.WpfEditors"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:controller="clr-namespace:PAU.Controllers"
+                 xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit"
+                 xmlns:uc="clr-namespace:PAU.UserControls"
+                 WindowStartupLocation="CenterScreen"
+                 Title="Passenger Analysis Unit" Height="768" Width="1024">
+    
+    <xr:RibbonWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes/DataGrid.Generic.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </xr:RibbonWindow.Resources>
+    <DockPanel LastChildFill="True">
+        <xr:Ribbon DockPanel.Dock="Top" LicenseKey="DAD80300DA22" x:Name="MainRibbon">
+            
+            <xr:Ribbon.ApplicationMenu>
+
+                <xr:ApplicationMenu xr:Ribbon.KeyTip="F">
+                    <xr:ApplicationMenu.Image >
+                        <Image  Source="Icons/Firefox Alt.png" Width="32" Height="32"/>
+                    </xr:ApplicationMenu.Image>
+
+                    <!-- Application Commands -->
+                    <xr:ApplicationMenu.AppItems>
+                        <xr:ButtonDropDown ColorClass="ButtonWithBackground" Margin="6,0,0,0" xr:Ribbon.KeyTip="X" Command="ApplicationCommands.Close" Header="Exit Application">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="Icons/Exit.png" Stretch="None"/>
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+                    </xr:ApplicationMenu.AppItems>
+
+
+                    <!-- Document Commands etc.-->
+                    <xr:ButtonDropDown Style="{DynamicResource AppMenuCommandButton}" 
+                        xr:Ribbon.KeyTip="N" Command="controller:Commands.ImportManifest">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="Icons/Document32.png" Width="32" Height="32"/>
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+
+                    <xr:ButtonDropDown xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Import Air Asia Manifest" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.ImportManifest2">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="Icons/Document32.png" />
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+                    
+                    <Separator Style="{DynamicResource AppMenuSeparator}"/>
+                    
+                    <xr:ButtonDropDown Style="{DynamicResource AppMenuCommandButton}" 
+                        xr:Ribbon.KeyTip="C" Command="controller:Commands.AddDPOData">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="/Icons/xScope.png" Width="32" Height="32"/>
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+
+                    <xr:ButtonDropDown xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Add WN Attention" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.AddWNAttention">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="/Icons/xScope.png" Width="32" Height="32" />
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+                    
+                    <Separator Style="{DynamicResource AppMenuSeparator}"/>
+                    
+                    <xr:ButtonDropDown Style="{DynamicResource AppMenuCommandButton}" 
+                        xr:Ribbon.KeyTip="C" Command="controller:Commands.RefreshData">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="/Icons/Refresh_32.png" Width="32" Height="32"/>
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+                                        
+                    <xr:ButtonDropDown Style="{DynamicResource AppMenuCommandButton}" 
+                        xr:Ribbon.KeyTip="C" Command="controller:Commands.ConnectionSettings">
+                        <xr:ButtonDropDown.Image>
+                            <Image Source="/Icons/System Preferences.png" Width="32" Height="32"/>
+                        </xr:ButtonDropDown.Image>
+                    </xr:ButtonDropDown>
+                    
+                </xr:ApplicationMenu>
+            </xr:Ribbon.ApplicationMenu>
+
+            
+            <xr:RibbonTab Header="Home" xr:Ribbon.KeyTip="H">
+                
+                <xr:RibbonBarPanel  Height="90" xr:Ribbon.KeyTip="R">
+                    <xr:RibbonBar Header="Manifests" Name="ribbonBarClipboard" ResizeOrderIndex="5" xr:Ribbon.KeyTip="FO"
+                                  VerticalContentAlignment="Top">
+                        <xr:RibbonBar.CollapsedImage>
+                            <Image Source="Icons/Paste32.png"/>
+                        </xr:RibbonBar.CollapsedImage>
+                        <xr:ButtonDropDown ImagePosition="Top" xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Import Air Asia Manifest" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.ImportManifest">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="Icons/Document32.png" />
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+
+                        <xr:ButtonDropDown ImagePosition="Top" xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Import Air Asia Manifest" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.ImportManifest2">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="Icons/Document32.png" />
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+                    </xr:RibbonBar>
+
+                    <xr:RibbonBar Header="Data" Name="ribbonBarDPO" ResizeOrderIndex="5" xr:Ribbon.KeyTip="FO"
+                                  VerticalContentAlignment="Top">
+
+                        <xr:ButtonDropDown ImagePosition="Top" xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Import Air Asia Manifest" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.AddDPOData">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="/Icons/xScope.png" Width="32" Height="32" />
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+                        
+                        <xr:ButtonDropDown ImagePosition="Top" xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Add WN Attention" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.AddWNAttention">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="/Icons/xScope.png" Width="32" Height="32" />
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+
+                    </xr:RibbonBar>
+                    
+                    <xr:RibbonBar Header="Tools" Name="ribbonBarTool" ResizeOrderIndex="5" xr:Ribbon.KeyTip="FO"
+                                  VerticalContentAlignment="Top">
+
+                        <xr:ButtonPanel Orientation="Horizontal" >
+                            <StackPanel Orientation="Vertical" >
+                                <TextBlock Text="Row Per Page " VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5 0 5 0"/>
+                                <xe:IntegerInput Width="70" Margin="5 0 5 0" Height="20" HorizontalAlignment="Left" Value="{Binding Path=RowPerPage, Mode=TwoWay}" x:Name="edtRowPerPage" ValueChanged="edtRowPerPage_ValueChanged"/>
+                                <TextBlock Text="Booking Date Range" VerticalAlignment="Center" Margin="5 0 5 0"/>
+                                <xe:IntegerInput MinValue="1" Width="100" Margin="5 0 5 0" Height="20" Value="{Binding Path=BookingDateRange, Mode=TwoWay}" x:Name="edtBookingDateRange" ValueChanged="edtBookingDateRange_ValueChanged"/>                            
+                            </StackPanel>
+                            <xr:ButtonDropDown ImagePosition="Top" 
+                                           Header="Refresh Data" InlineExpand="False" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.RefreshData">
+                                <xr:ButtonDropDown.Image>
+                                    <Image Source="/Icons/Refresh_32.png" Width="32" Height="32" />
+                                </xr:ButtonDropDown.Image>
+                            </xr:ButtonDropDown>
+
+                        </xr:ButtonPanel>
+
+                        
+                        <xr:ButtonDropDown ImagePosition="Top" xr:RibbonBar.MinAutoSizeHint="Medium" ExpandPosition="Bottom" 
+                                           Header="Connection Settings" InlineExpand="False" PopupType="Menu" ContentExpands="true" 
+                                           xr:Ribbon.KeyTip="V" Height="70" VerticalAlignment="Top" Margin="2 0 0 0"
+                                           Command="controller:Commands.ConnectionSettings">
+                            <xr:ButtonDropDown.Image>
+                                <Image Source="/Icons/System Preferences.png" Width="32" Height="32" />
+                            </xr:ButtonDropDown.Image>
+                        </xr:ButtonDropDown>
+                        
+                    </xr:RibbonBar>
+
+                </xr:RibbonBarPanel>
+
+            </xr:RibbonTab>
+
+        </xr:Ribbon>
+
+
+        <!-- Status Bar -->
+        <StatusBar DockPanel.Dock="Bottom"
+            FlowDirection="RightToLeft">
+
+            <StatusBar.Resources>
+            </StatusBar.Resources>
+
+            <!-- Filling direction is from right to left -->
+            <StatusBarItem x:Name="_statusServer" Width="70" FlowDirection="LeftToRight"/>
+            <StatusBarItem FlowDirection="LeftToRight">Server:</StatusBarItem>
+            <Separator Style="{DynamicResource {ComponentResourceKey TypeInTargetAssembly=xr:Ribbon, ResourceId=StatusBarSeparator}}" DockPanel.Dock="Left"/>
+
+            <StatusBarItem Content="{Binding Path=StatusText}" FlowDirection="LeftToRight" />    
+            
+        </StatusBar>
+
+        <Grid>
+
+            <Image Source="Icons/Preview.png" />
+
+            <!-- Dock Window group -->
+            <xd:DockSite LicenseKey="DAD80300DA22" Margin="4,0,4,0" 
+                     x:Name="AppDock">
+                <xd:DockSite.SplitPanels>
+
+                    <!-- we still required to set data context for each panel individually, 
+                so that its data binding won't change when parent changed from this 
+                MainWindow to floating window -->
+
+                    <!-- Right panel for tools -->
+                    <xd:SplitPanel xd:DockSite.Dock="Right" xd:DockSite.DockSize="62" x:Name="rightPanel" Visibility="Collapsed">
+                        <xd:DockWindowGroup x:Name="dockWindowGroup" >
+                            <xd:DockWindow CanDockAsDocument="False" CanClose="False" x:Name="rightPanelTool">
+                                <xd:DockWindow.Header>
+                                    <Binding Path="RightPaneToolTitle" Mode="OneWay" />
+                                </xd:DockWindow.Header>
+                                <xd:DockWindow.Image>
+                                    <Image Source="Icons/Component.png" Width="16" Height="16"/>
+                                </xd:DockWindow.Image>
+                                <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+                                    <UserControl Content="{Binding Path=RightPaneTool, Mode=OneWay}" />
+                                </ScrollViewer>
+                            </xd:DockWindow>
+                        </xd:DockWindowGroup>
+                    </xd:SplitPanel>
+
+                    <!-- Bottom panel for animation -->
+                </xd:DockSite.SplitPanels>
+
+
+                <!-- Render View -->
+                <xd:SplitPanel x:Name="renderView">
+
+
+                    <xd:DockWindowGroup x:Name="dockGroup"  >
+
+                        <xd:DockWindow CanAutoHide="False" 
+                                   CanFloat="False" CanTearOff="False" CanDockLeft="False" CanDockRight="False" 
+                                   CanDockTop="False" CanDockBottom="False" x:Name="renderWindow" CanClose="False">
+                            <xd:DockWindow.Header>
+                                <TextBlock Padding="7 0 0 0">All Passengers</TextBlock>
+                            </xd:DockWindow.Header>
+                            <xd:DockWindow.Image>
+                                <Image Source="Icons/Pictures.png" Width="16" Height="16"/>
+                            </xd:DockWindow.Image>
+
+                            <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Name="renderingDock" >
+
+                                <uc:ucPassenger x:Name="dgPassenger" />
+                                <!--
+                                <toolkit:DataGrid x:Name="dgPassenger" ItemsSource="{Binding Path=Passengers}" 
+                                                  CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True">
+                                    <toolkit:DataGrid.Columns>
+                                        <toolkit:DataGridTextColumn Header="First Name" Width="200" Binding="{Binding FirstName}" />
+                                        <toolkit:DataGridTextColumn Header="Last Name" Width="200" Binding="{Binding LastName}" />
+                                        <toolkit:DataGridTextColumn Header="Passport" Width="100" Binding="{Binding Passport}" />
+                                        <toolkit:DataGridTextColumn Header="Booking Code" Width="90" Binding="{Binding PNR}" />
+                                        <toolkit:DataGridTextColumn Header="Fare Class" Binding="{Binding FareClass}" />
+                                        <toolkit:DataGridTextColumn Header="Date" Width="80" Binding="{Binding Date}" />
+                                        <toolkit:DataGridTextColumn Header="Seq No" Binding="{Binding SeqNo}" />
+                                        <toolkit:DataGridTextColumn Header="Seat No" Binding="{Binding SeatNo}" />
+                                        <toolkit:DataGridTextColumn Header="Flight No" Width="70" Binding="{Binding Path=FlightNo}" />
+                                        <toolkit:DataGridTextColumn Header="Gender" Binding="{Binding Gender}" />    
+                                    </toolkit:DataGrid.Columns>
+                                </toolkit:DataGrid>
+                                -->
+
+                            </DockPanel>
+                        </xd:DockWindow>
+
+                        <xd:DockWindow CanAutoHide="False" 
+                                   CanFloat="False" CanTearOff="False" CanDockLeft="False" CanDockRight="False" 
+                                   CanDockTop="False" CanDockBottom="False" CanClose="False">
+                            <xd:DockWindow.Header>
+                                <TextBlock Padding="7 0 0 0">DPO List</TextBlock>
+                            </xd:DockWindow.Header>
+                            <xd:DockWindow.Image>
+                                <Image Source="/Icons/xScope.png" Width="16" Height="16"/>
+                            </xd:DockWindow.Image>
+
+                            <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+                                <uc:ucDPO x:Name="dgDPO"/>
+
+                            </DockPanel>
+                        </xd:DockWindow>
+                        
+                        <xd:DockWindow CanAutoHide="False" 
+                                   CanFloat="False" CanTearOff="False" CanDockLeft="False" CanDockRight="False" 
+                                   CanDockTop="False" CanDockBottom="False" CanClose="False">
+                            <xd:DockWindow.Header>
+                                <TextBlock Padding="7 0 0 0">WN Attention List</TextBlock>
+                            </xd:DockWindow.Header>
+                            <xd:DockWindow.Image>
+                                <Image Source="/Icons/xScope.png" Width="16" Height="16"/>
+                            </xd:DockWindow.Image>
+
+                            <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+                                <uc:ucNationality x:Name="dgNationality"/>
+
+                            </DockPanel>
+                        </xd:DockWindow>
+                        
+                    </xd:DockWindowGroup>
+                   
+
+                </xd:SplitPanel>
+            </xd:DockSite>
+
+        </Grid>
+        
+    </DockPanel>
+    
+</xr:RibbonWindow>

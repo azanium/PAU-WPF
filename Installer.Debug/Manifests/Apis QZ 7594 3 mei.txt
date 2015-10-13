@@ -1,0 +1,279 @@
+                        Pax Verification Summary Report
+Date:03May12                      Flight#:7594               City Pair:KULBDO
+
+       PNR Last Name                 First Name           Middle Name         
+           G DOB     Nat Res WL Ver Sb Doc Type       Number    Exp  Cy
+   ---------------------------------------------------------------------------
+  1) EYSMFN AB HAMID                  AZLAN                                    
+           F 690816   MY  MY      Y N    P           A 24429127 070613  MY
+  2) W9H1SW ABD AZIZ                  NABILAH AISHAH                           
+           F 020601   MY  MY      Y N    P           A 26412770 260417  MY
+  3) C6ISNM ABD GHANI                 ZAINI                                    
+           F 630903   MY  MY      Y N    P            A20601896 091114  MY
+  4) C6ISNM ABD GHANI                 ZAINUN                                   
+           F 610224   MY  MY      Y N    P            A18560924 230313  MY
+  5) Z664MS ABD HAKIM                 AHMAD FADHLE SHAH                        
+           M 851121   MY  MY      Y N    P            A24844760 180713  MY
+  6) XEEWJH ABD RAHIM                 ABIDAH                                   
+           F 860915   MY  MY      Y N    P            A26412211 220412  MY
+  7) IEHCRE Abdul Hadi                Mohd Zubil                               
+           M 720411   MY  MY      N N
+  8) JELWPE ABDUL HAMID               ASMARA                                   
+           F 710121   MY  MY      Y N    P             24173509 150313  MY
+  9) TE1UFH ABDUL RAHMAN              RAIHANA                                  
+           F 850806   MY  MY      N N
+ 10) W9H1SW ABDULLAH                  SITI AISHAH                              
+           F 580711   MY  MY      Y N    P           A 26412357 230414  MY
+ 11) E2RWTY AHMAD                     MOHAMAD FAIZ BIN AHM                     
+           M 931020   MY  MY      Y N    P            A26018747 140617  MY
+ 12) E2RWTY AHMAD                     MOHAMAD FIKRI BIN AH                     
+           M 960510   MY  MY      Y N    P            A26018760 140617  MY
+ 13) E2RWTY AHMAD                     NUR FARHANA BINTI AH                     
+           F 050824   MY  MY      Y N    P            A26018759 140617  MY
+ 14) YYYHTW AZLI                      AHMAD SYAWALTULFITRI                     
+           M 880509   MY  MY      Y N    P            A26418454 230314  MY
+ 15) Q79P6M ANGGAN                    SEDUT                                    
+           F 640817   MY  MY      Y N    P            K23712289 160213  MY
+ 16) E2RWTY Awang                     Mohamad Sidik                            
+           M 380201   MY          N N
+ 17) EYSMFN AZAHARI                   ZARINA SITI SARAH                        
+           F 750730   MY          N N
+ 18) P4U9HF BAKAR                     RAFIZAH                                  
+           F 770722   MY  MY      Y N    P            A26269603 250917  MY
+ 19) ABWJ8K BIEN                      ELENA MADELINE                           
+           F 011108   ID  ID      Y N    P            S808424   181114  ID
+ 20) ABWJ8K BIEN                      MONICA DEWI                              
+           F 710516   ID  ID      Y N    P            S808571   280415  ID
+ 21) ABWJ8K BIEN                      THEODORE ALEXANDER                       
+           M 990927   ID  ID      Y N    P            S808425   181114  ID
+ 22) Q79P6M TARA                      ANAK BIJU                                
+           F 470830   MY  MY      Y N    P            K26080258 260917  MY
+ 23) K49LNF BT MOHD ZAINAL            FARAH DAMIA BINTI MO                     
+           F 920616   MY  MY      Y N    P            A19084577 210713  MY
+ 24) NCBTHN CEWO                      TATANG                                   
+           M 640404   ID  ID      Y N    P             AN959636 191013  ID
+ 25) A536PC CHAI                      IE CHOO                                  
+           F 661104   MY  MY      Y N    P         661104135048         MY
+ 26) E7IUXZ CHE DAUD                  NOOR AZIZAH                              
+           F 790823   MY  MY      Y N    P            A26339924 190414  MY
+ 27) OF316B Che Man                   Sharom                                   
+           M 700206   MY  MY      N N
+ 28) Z664MS Che Mat                   Mohd Faizol                              
+           M 850523   MY  MY      N N
+ 29) YYDSUW CHEMAT                    EUIS ERNAWATI                            
+           F 530123   ID  ID      Y N    P              B982937 120213  ID
+ 30) YYDSUW CHEMAT                    HAMARASDEE                               
+           M 500705   TH  TH      Y N    P            Y871818   260815  TH
+ 31) F5Q4JC CHEMAT                    HASANAH                                  
+           F 860427   ID  ID      Y N    P              S682496 010414  ID
+ 32) A536PC CHIN                      KIU HON                                  
+           M 610514   MY  MY      Y N    P         610514135171         MY
+ 33) K49LNF CHONG                     DAREN CHONG JUN CHAO                     
+           M 940113   MY  MY      Y N    P            A25587454 071213  MY
+ 34) K49LNF CHONG                     VANESSA CHONG MENG M                     
+           F 840206   MY  MY      Y N    P            A19674410 010614  MY
+ 35) K49LNF CHONG                     STEFANIE CHONG TING                      
+           F 890422   MY  MY      Y N    P            A24724830 230217  MY
+ 36) K49LNF CHONG                     WEI SAN              CHONG WEI SAN       
+           M 520304   MY  MY      Y N    P            A26482143 100517  MY
+ 37) O4YVVV FONG                      SAU LAN                                  
+           F 610412   MY          N N
+ 38) Q79P6M GANTI                     NANI                                     
+           F 510221   MY  MY      Y N    P            K21460628 160915  MY
+ 39) G5QZYS GUNAWAN                   DEDE                                     
+           M 600502   ID  ID      Y N    P              S293105 030913  ID
+ 40) H9T8JT HAJI HARIS                HAJI DERIUS                              
+           M 541026   BN  BN      Y N    P             C0099506 301115  BN
+ 41) XEU8PH HAMBALI                   LUCIAWATY                                
+           F 411022   ID  ID      Y N    P             A0365224 090516  ID
+ 42) Y6FK6P HARON                     FARIDAH                                  
+           F 630216   MY  MY      Y N    P            A19330858 281013  MY
+ 43) M5R9KS HASSAN                    HAFEIZ MURSHIDIE                         
+           M 781212   MY  MY      Y N    P            A19818338 260614  MY
+ 44) A6ICKZ HASSAN                    JAMALIAH                                 
+           F 781206   MY  MY      Y N    P         781206086124 150414  MY
+ 45) H8JQSJ HASSAN                    SAHIMI                                   
+           M 591030   MY  MY      Y N    P             26411533 170414  MY
+ 46) HYRKRA HELMY                     HARIS AMRI                               
+           M 090131   MY  MY      Y N    P         090131101357 100317  MY
+ 47) NYUSMD HO                        HO KOK YEE                               
+           F 780519   MY  MY      Y N    P            A20252837 291014  MY
+ 48) K49LNF HONG                      HUAMIN                                   
+           M 830201   SG  SG      Y N    P            S8304578G 301114  SG
+ 49) I6RYFM IZZAH HAMIZAH             BINTI IBRAHIM                            
+           F 910819   MY  MY      Y N    P            A26661644 020514  MY
+ 50) B1WW3L II                        II MULYASAROH                            
+           F 761207   ID  ID      Y N    P              V098884 220415  ID
+ 51) AFY2RR IIP SARIPUDIN             IIP SARIPUDIN                            
+           M 680903   ID  ID      Y N    P             A2483511 260317  ID
+ 52) W692WF IRWANANG                  IRWANANG                                 
+           M 860105   ID  ID      Y N    P             AN484516 050313  ID
+ 53) XEEWJH ISMAIL                    AZNAN                                    
+           M 860517   MY  MY      Y N    P            A26412245 230412  MY
+            AZNAN                     ARYAN IMAN                               
+           M 101027*  MY  MY      Y N    P                    A 140614  MY
+ 54) YYYHTW ISMAIL                    SYAFINAZ                                 
+           F 881030   MY  MY      Y N    P            A26400292 150314  MY
+ 55) UDYJTK jalaludin                 mohd razif                               
+           M 840726   MY  MY      N N
+ 56) IEZSXX BINTI JAMALUDIN           NORMALIZA                                
+           F 840404   MY  MY      Y N    P            A19084508 180713  MY
+ 57) Q79P6M JAPOK                     K CHERAMBANG                             
+           F 430604   MY  MY      Y N    P            K18472454 050813  MY
+ 58) Q79P6M JELI                      JENNY                                    
+           F 590801   MY  MY      Y N    P            K21118769 190215  MY
+ 59) O23NQB JUMAD                     SETIAWAN                                 
+           M 731123   ID  ID      Y N    P              v186512 020615  ID
+ 60) HB6PVQ REMIE                     KANANG                                   
+           F 520124   MY  MY      Y N    P            K19888924 030414  MY
+ 61) Q79P6M KEDIK                     MENDON                                   
+           F 590803   MY  MY      Y N    P            K18570026 140213  MY
+ 62) O4YVVV KOK WAI CHUEN             WAI CHUEN            MY                  
+           F 590521   MY  MY      Y N    P            A20628036 100914  MY
+ 63) W6P2GC KONG                      YOKE CHAN                                
+           F 570521   MY  MY      Y N    P            A21257541 050415  MY
+ 64) P9GU4D LIAS                      THOMAS BABAI                             
+           M 560606   MY  MY      Y N    P                    A 260616  MY
+ 65) K8JMKJ LIM                       KING NIO                                 
+           F 511111   ID  ID      Y N    P               016443 200314  ID
+ 66) K49LNF LIM                       LIM SIEW AN                              
+           F 550108   MY  MY      Y N    P            A23940961 250213  MY
+ 67) K49LNF LIM                       LIM SIEW LAYE                            
+           F 670926   MY  MY      Y N    P            A26344121 191017  MY
+ 68) K49LNF LIONG                     LIONG JIA YAN                            
+           F 841126   MY  MY      Y N    P            A25992639 170717  MY
+ 69) KDTLYX LUNGGANG                  JULAN ANAK                               
+           F 530820   MY  MY      Y N    P                    A 140615  MY
+ 70) M5R9KS MACCI                     SHAIBATUL HAMD                           
+           M 631026   GB  GB      Y N    P            707296441 090920  GB
+ 71) C6ISNM MAT                       NORMA                                    
+           F 610505   MY  MY      Y N    P            A24210890 170413  MY
+ 72) NFC58B MAT ALI                   MOHD FADHIR                              
+           M 850323   MY  MY      Y N    P            A26262792 220314  MY
+ 73) I6RYFM BIN MAT WAJID             SHAHARI                                  
+           M 540505   MY  MY      Y N    P            A24143535 090916  MY
+ 74) E2RWTY MD HASHIM                 NOR HASHIMAH                             
+           M 631223   MY  MY      Y N    P            A23652514 010113  MY
+ 75) E2RWTY MOHAMAD SIDIK             AHMAD BIN MOHAMA     SIDIK               
+           M 661031   MY  MY      Y N    P            A25413365 050417  MY
+ 76) DY9CNQ NUR DAMIA IRDINA          BINTI MOHAMMAD AZWAN                     
+           F 080413   MY  MY      Y N    P            A26710365 300417  MY
+ 77) DY9CNQ mohd abdul razak          nur khalia                               
+           F 870524   MY          N N
+ 78) H1BG2L MASTURA                   BINTI MOHD SAAD                          
+           F 700831   MY  MY      Y N    P            A24549259 300516  MY
+ 79) FYY7KD MS                        NURHAYATI KAMILAH                        
+           F 820909   ID  ID      Y N    P             A0460232 120516  ID
+ 80) D3MR3F MUHAMMAD                  ROZELAWATI                               
+           F 801219   MY  MY      Y N    P         801219035372 010120  MY
+ 81) T9HBWW MUHAMMAD                  ZALINA                                   
+           F 740617   MY  MY      Y N    P         740617035160         MY
+ 82) W692WF MULYANA                   AGUS                                     
+           M 880811   ID  ID      Y N    P             AP311993 010314  ID
+ 83) R3I6GY NAIF                      NOOR                                     
+           F 780802   MY  MY      Y N    P         780802035142         MY
+ 84) W692WF NANDANG                   NANDANG                                  
+           M 820627   ID  ID      Y N    P             AN484574 050313  ID
+ 85) C8HTYJ NASUKA                    NAPIAH                                   
+           F 680930   ID  ID      Y N    P             AP173028 281213  ID
+ 86) H3T8MV 19                        NASUTION             ELFINA              
+           F 800926   ID  ID      Y N    P            AP311453  280214  ID
+ 87) P748FM NI JOUW                   LAI                                      
+           M 420327   ID  ID      Y N    P              T358060 150614  ID
+ 88) W9H1SW NIK HAMZAH                NIK NURUL IDWANI                         
+           F 870721   MY  MY      Y N    P           A 26411004 150414  MY
+ 89) W9H1SW NIK HAMZAH                NIK SURTANTI HERNANI                     
+           F 800623   MY  MY      Y N    P            A24430884 230613  MY
+            MOHD ZAKI                 NUR DAMIA IRDINA                         
+           F 110306*  MY  MY      Y N    P           A 26410997 150414  MY
+ 90) CD4ITX NIK LI                    NIK SUHAIDA                              
+           F 801008   MY  MY      Y N    P            A26558834 260414  MY
+ 91) P748FM NIWANTINI                 NIWANTINI                                
+           F 430729   ID  ID      Y N    P              T357764 120614  ID
+ 92) HYRKRA OSRI                      HELMY                                    
+           M 820323   MY  MY      Y N    P         820323085349 100314  MY
+ 93) I4UW7S PATEL                     ASHOKKUMAR C                             
+           M 590920   MY  MY      Y N    P            A19722352 040814  MY
+ 94) F5Q4JC PRADOO                    WALED                                    
+           M 850409   TH  TH      Y N    P            V755617   110613  TH
+ 95) N36M5Y purnama                   dadang                                   
+           M 770805   ID  ID      N N
+ 96) OBU1YQ PURYANTI                  PURYANTI                                 
+           F 760610   ID  ID      Y N    P                    A 260715  ID
+ 97) W692WF QORIAH                    QORI                                     
+           F 860117   ID  ID      Y N    P             AP311956 010314  ID
+ 98) TCN6HN RATNA                     NENG                                     
+           F 800411   ID  ID      Y N    P             AN644902 020713  ID
+ 99) I6RYFM BIN RAZALI                DZULKAFLI                                
+           M 640119   MY  MY      Y N    P            A24143610 040516  MY
+100) A6ICKZ RAZALI                    ZAIREEN AZWAN                            
+           M 790612   MY  MY      Y N    P         790612085957 030913  MY
+101) XEN4KX ROHIMAT                   ASEP                                     
+           M 750328   ID  ID      Y N    P             A1028720 170217  ID
+102) I6RYFM ROSLI                     NADIRAFAIIZA BINTI R                     
+           F 831222   MY  MY      Y N    P            A20424059 180614  MY
+103) H8JQSJ SAHIMI                    FATHIN MUWIYYAH                          
+           F 010427   MY  MY      Y N    P             26411450 170417  MY
+104) Y8M7MZ SALLEH                    MUHAMMAD TAUFIK                          
+           M 850204   MY  MY      Y N    P            A24830336 130713  MY
+105) W9H1SW SAUDIN                    MOHD ZAKI                                
+           M 850527   MY  MY      Y N    P           A 26410998 150414  MY
+106) I6RYFM SEDARMAN                  SHAH RIZAL BIN SEDAR                     
+           M 780409   MY  MY      Y N    P            A26662941 260414  MY
+107) P9GU4D SERING                    BEATRICE                                 
+           F 581108   MY  MY      Y N    P                    A 140116  MY
+108) I6RYFM SHAH RIZAL                NUR ALISYA NAJWA     MY                  
+           F 081225   MY  MY      Y N    P            A26662999 260417  MY
+109) H3T8MV SIDIN                     NADIRA BINTI MAD SID                     
+           F 871223   MY  MY      Y N    P            A19303869 130813  MY
+110) G5QZYS SUHARTA WIRIA             PIPIH                                    
+           M 520807   ID  ID      Y N    P              V585319 200715  ID
+111) W692WF SUJANA                    NANA                                     
+           M 850520   ID  ID      Y N    P             AN484578 050313  ID
+112) G7LJ5J SULAIMAN                  NORSYAZWANI                              
+           F 881111   MY  MY      Y N    P            A26463904 251017  MY
+113) H3T8MV SULAIMAN                  SABARIAH BINTI SULAI                     
+           F 741012   MY  MY      Y N    P            A23646300 201212  MY
+114) IY9IGD suryana                   ai supriati                              
+           F 660818   ID  ID      N N
+115) Q79P6M TAJIE                     PUTEH                                    
+           F 610816   MY  MY      Y N    P            K18570028 140213  MY
+116) W6P2GC THANAPATHY                SUBRAMANIAM                              
+           M 440417   SG  SG      Y N    P            E2059708K 070216  SG
+117) Q79P6M UCHENG                    LILY                                     
+           F 581219   MY  MY      Y N    P                    A 140717  MY
+118) L1RQWB UNARI                     UUN                                      
+           F 850906   ID  ID      Y N    P             AM809282 170613  ID
+119) W692WF WAHYU                     WAHYU                                    
+           M 890908   ID  ID      Y N    P             AN484513 050313  ID
+120) H8JQSJ WAN ISMAIL                WAN SAKINAH                              
+           F 610917   MY  MY      Y N    P             26411449 170417  MY
+121) IEZSXX BIN WAN NOR ANUA          WAN MOHD NAZREN                          
+           M 790404   MY  MY      Y N    P            A19084502 180713  MY
+122) GFFPNR WANG                      FRANK TAFAIN                             
+           M 440908   US  US      Y N    P            485484662 211121  US
+123) GFFPNR WANG                      NING CHEN                                
+           F 470127   US  US      Y N    P            220380930 030117  US
+124) F9IW3D WASKI                     WASKI                                    
+           F 740402   ID  ID      Y N    P             AN142881 121012  ID
+125) O4YVVV WHAN                      PING KOK                                 
+           M 550505   MY          N N
+126) J1QERB WOI HYUN                  KIM                                      
+           M 590928   KR  KR      Y N    P            SC1786965 061015  KR
+127) H1BG2L YAHYA                     MOHAMAD NOR                              
+           M 641212   MY  MY      Y N    P           A 24549258 300516  MY
+128) NYUSMD YEO                       YEO SOO HUA                              
+           F 620121   MY  MY      Y N    P            A20678501 230315  MY
+129) C3DD4V ZAHIDIN                   MUHAMMAD IZWAN                           
+           M 881001   MY  MY      Y N    P            A21473961 100717  ID
+130) CD4ITX ZAINAL ABIDIN             ROSAINI                                  
+           F 790217   MY  MY      Y N    P            A26558827 260414  MY
+131) DY9CNQ NUR ARTIKA HANISAH        BINTI ZAKARIA                            
+           F 830131   MY  MY      Y N    P            A24143646 150313  MY
+132) DY9CNQ NUR PAEZA                 BINTI ZAKARIA                            
+           F 860326   MY  MY      Y N    P            A26710345 300414  MY
+133) HYRKRA ZUHALI                    SHUHDA SILMI                             
+           F 820227   MY  MY      Y N    P         820227145970 100314  MY
+            HELMY                     HAFIY SYAHMI                             
+           M 111103*  MY  MY      Y N    P            A26279292 100317  MY
+

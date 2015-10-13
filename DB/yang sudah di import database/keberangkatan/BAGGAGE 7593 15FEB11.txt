@@ -1,0 +1,170 @@
+a0055ros                      AirAsia Indonesia                               
+16Feb11 10:04              Checked Baggage (Detail)                  By:  5920
+                             for Flown Passengers                             
+                           from 15Feb11 to 15Feb11                            
+                      City Pair: BDOKUL  Flight No: 7593                      
+                         Sort by: Flight and Bag Tag                          
+                               Airline Code: QZ                               
+
+
+Passenger Name                  PNR      Seq   Cty Pr Flt  Bag Tag    Weight
+------------------------------  -------- ----- ------ ---- ---------- ------
+Shahabuddin/Norhayati           XZNL8B   4     BDOKUL 7593 0807060499 29    
+                                                           0807060501       
+CHEE/MAN KUAN                   EC8YNH   5     BDOKUL 7593 0807060538 10    
+mohd zain/johari                QY7KGQ   7     BDOKUL 7593 0807060585 20    
+CHE PA/MD ZAHIR                 U6844M   8     BDOKUL 7593 0807060595 20    
+Husin/Khiril Nizam              U6844M   9     BDOKUL 7593 0807060600 17    
+MD ZAIN/ZUNNEDAH                U6844M   10    BDOKUL 7593 0807060605 21    
+ABDUL RAHIM/ROSLINDA            U6844M   11    BDOKUL 7593 0807060608 24    
+YUSUF/ABDUL RAHIM               U6844M   12    BDOKUL 7593 0807060616 18    
+ABDUL RAHIM/ROSLINDA            U6844M   11    BDOKUL 7593 0807060620 9     
+CHE PA/MD ZAHIR                 U6844M   8     BDOKUL 7593 0807060623 7     
+Husin/Khiril Nizam              U6844M   9     BDOKUL 7593 0807060636 4     
+MD ZAIN/ZUNNEDAH                U6844M   10    BDOKUL 7593 0807060642 8     
+YUSUF/ABDUL RAHIM               U6844M   12    BDOKUL 7593 0807060708 8     
+                                                           0807060712       
+k r gopal/komalavalli           TBKYJN   21    BDOKUL 7593 0807060909 35    
+                                                           0807060910       
+                                                           0807060917       
+AB AZIS/MOHD KHAIROLNAZMI       IYPNYA   26    BDOKUL 7593 0807060935 19    
+ARIFF/JANARIAH                  IYPNYA   15    BDOKUL 7593 0807060937 16    
+ABDUL RAHIM/NORAZLIN            XY8RJD   31    BDOKUL 7593 0807060939 25    
+                                                           0807060940       
+MAZELI/NUR LIYANA               IYPNYA   25    BDOKUL 7593 0807060942 8     
+MISMAN/MUHD EZZAZAYA            IYPNYA   13    BDOKUL 7593 0807060946 10    
+MOHD RAIB/NURHAYATI             IYPNYA   16    BDOKUL 7593 0807060953 10    
+ZAINOL ABIDIN/RUZAINI           IYPNYA   14    BDOKUL 7593 0807060957 9     
+AB AZIS/MOHD KHAIROLNAZMI       IYPNYA   26    BDOKUL 7593 0807060960 11    
+ARIFF/JANARIAH                  IYPNYA   15    BDOKUL 7593 0807060965 7     
+ABDUL HALIM/FARAH NADIA         JYYD6N   29    BDOKUL 7593 0807060970 13    
+ABU/ZURIANA                     JYYD6N   19    BDOKUL 7593 0807060975 10    
+BAHARIM/FATIMAH ZAHRAH          JYYD6N   24    BDOKUL 7593 0807060978 7     
+BAJURI/ZAINI                    JYYD6N   20    BDOKUL 7593 0807060986 39    
+KAMARUDIN/NURUL FATINI          JYYD6N   22    BDOKUL 7593 0807060988 17    
+KAMSUN/KAMARUDIN                JYYD6N   23    BDOKUL 7593 0807060994 5     
+MD DALI/HAMIMAH                 JYYD6N   27    BDOKUL 7593 0807060999 12    
+MOHD SAAD/ABDUL HALIM           JYYD6N   28    BDOKUL 7593 0807061008 15    
+ZAINI/NUR HAYATI                JYYD6N   17    BDOKUL 7593 0807061009 6     
+MOHD SAAD/ABDUL HALIM           JYYD6N   28    BDOKUL 7593 0807061013 10    
+BAJURI/ZAINI                    JYYD6N   20    BDOKUL 7593 0807061042 20    
+abdul malek/mazni               P3EV2F   33    BDOKUL 7593 0807061073 15    
+Marlina/Elyn                    S9F1XT   36    BDOKUL 7593 0807061154 12    
+Ruslan/Iyus                     S9F1XT   37    BDOKUL 7593 0807061157 8     
+Abdul Rahman/Syafiqah Adibah    O5W44M   38    BDOKUL 7593 0807061191 13    
+KUA/MEI LING                    T9UBCB   43    BDOKUL 7593 0807061270 10    
+MOHD YUSOF/HAFZAL HISHAM        I2LRVI   41    BDOKUL 7593 0807061276 25    
+                                                           0807061278       
+                                                           0807061287       
+CHE LUD/CHE DAH                 L6URWZ   45    BDOKUL 7593 0807061307 29    
+                                                           0807061315       
+                                                           0807061316       
+KAMARUDDIN/AHMAD ZAKI           HB4E3X   48    BDOKUL 7593 0807061351 30    
+                                                           0807061355       
+KAMARUDDIN/ZURAINEE             L8TEST   50    BDOKUL 7593 0807061367 19    
+                                                           0807061370       
+                                                           0807061372       
+Abu Samah/Zainal Abidin         E4N1RC   54    BDOKUL 7593 0807061389 14    
+MOHD YUSOF/AZNUL HISHAM         I2LRVI   52    BDOKUL 7593 0807061392 27    
+                                                           0807061397       
+Ramasamy/Veerayah               C7PFVW   55    BDOKUL 7593 0807061403 15    
+                                                           0807061404       
+MOHD YUSOF/RAFIQA SHIREEN       HB4E3X   47    BDOKUL 7593 0807061413 30    
+                                                           0807061415       
+abd rahman/ahmad murad          O3L7KV   56    BDOKUL 7593 0807061425 11    
+Ramasamy/Veerayah               C7PFVW   55    BDOKUL 7593 0807061427 6     
+herlansyah/tubagus asep         TBRHVN   64    BDOKUL 7593 0807061461 10    
+CHE LAT/NURLAILY                DEYCGB   60    BDOKUL 7593 0807061467 61    
+                                                           0807061468       
+                                                           0807061469       
+                                                           0807061470       
+                                                           0807061471       
+                                                           0807061472       
+                                                           0807061473       
+Jute/Adriana                    R1Q27L   66    BDOKUL 7593 0807061482 23    
+Sayung/Suden                    R1Q27L   67    BDOKUL 7593 0807061492 14    
+Jute/Adriana                    R1Q27L   66    BDOKUL 7593 0807061496 8     
+CHE LAT/NURLAILY                DEYCGB   60    BDOKUL 7593 0807061501 6     
+IBRAHIM/HABIBAH                 DEYCGB   59    BDOKUL 7593 0807061507 17    
+                                                           0807061508       
+                                                           0807061514       
+Abdullah/Hisyam                 GDRRNE   68    BDOKUL 7593 0807061520 29    
+Ali/zaharah                     GDRRNE   70    BDOKUL 7593 0807061528 26    
+FATI/FARAH                      GDRRNE   71    BDOKUL 7593 0807061536 21    
+Omar/Mahani                     GDRRNE   69    BDOKUL 7593 0807061539 13    
+KAMAL/AMINAH                    EYV77K   65    BDOKUL 7593 0807061540 13    
+                                                           0807061541       
+Othman/Fati                     GDRRNE   72    BDOKUL 7593 0807061542 15    
+Abdullah/Hisyam                 GDRRNE   68    BDOKUL 7593 0807061549 12    
+Ali/zaharah                     GDRRNE   70    BDOKUL 7593 0807061551 11    
+ABU SAMAH/KAMARUL AZWAN         H3FP5S   75    BDOKUL 7593 0807061560 51    
+                                                           0807061568       
+                                                           0807061570       
+ANAS/HAMZAH                     JD7J3E   73    BDOKUL 7593 0807061575 42    
+                                                           0807061576       
+                                                           0807061577       
+                                                           0807061578       
+ABU SAMAH/KAMARUL AZWAN         H3FP5S   75    BDOKUL 7593 0807061579 1     
+muda/rohaizan                   G5SR3Z   1     BDOKUL 7593 0807061585 12    
+                                                           0807061586       
+Bin Shahir/Ab Malik             G2JMKI   85    BDOKUL 7593 0807061590 40    
+                                                           0807061591       
+                                                           0807061592       
+                                                           0807061593       
+mohamed/khalijah                V2FZHL   84    BDOKUL 7593 0807061594 58    
+                                                           0807061595       
+                                                           0807061596       
+YOONG/KOK PHEY                  J9HNCF   89    BDOKUL 7593 0807061600 11    
+mohamed/khalijah                V2FZHL   84    BDOKUL 7593 0807061608 8     
+HASHIM/NORMAH                   JB8S7K   94    BDOKUL 7593 0807061611 48    
+                                                           0807061612       
+                                                           0807061613       
+                                                           0807061614       
+BINTI ABDUL BARI/JASMIN         UC19VN   100   BDOKUL 7593 0807061629 15    
+Murad/Ahmad Faisal              B26FYY   99    BDOKUL 7593 0807061635 57    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061638 106   
+Murad/Ahmad Faisal              B26FYY   99    BDOKUL 7593 0807061639 40    
+BINTI ABDUL BARI/SITI KHATIJAH  UC19VN   101   BDOKUL 7593 0807061640 15    
+MANSUR/MOHD IRWAN               T1DTWB   102   BDOKUL 7593 0807061644 39    
+                                                           0807061645       
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061650 101   
+Murad/Ahmad Faisal              B26FYY   99    BDOKUL 7593 0807061655 15    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061656 95    
+BINTI AHMAD/NOOR ASWIZA         QCH6NK   93    BDOKUL 7593 0807061661 31    
+Murad/Ahmad Faisal              B26FYY   99    BDOKUL 7593 0807061662 8     
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061665 85    
+BINTI AZALI/JURAIZA             QCH6NK   106   BDOKUL 7593 0807061669 11    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061670 68    
+MOHD YUSUFF/MIMI BAIJURA        T1DTWB   103   BDOKUL 7593 0807061673 11    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061676 37    
+BINTI HASSAN/NOOR AEIZA         QCH6NK   91    BDOKUL 7593 0807061679 13    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061684 22    
+DASIMAH/DASIMAH                 FYLP2K   109   BDOKUL 7593 0807061689 10    
+BINTI IBRAHIM/NUR BAIZURA       QCH6NK   97    BDOKUL 7593 0807061691 17    
+Binti Abd Ghani/Hamidah         X1DYQB   80    BDOKUL 7593 0807061692 11    
+MANSUR/MOHD IRWAN               T1DTWB   102   BDOKUL 7593 0807061693 8     
+BINTI IDRIS/JISMANISA           QCH6NK   108   BDOKUL 7593 0807061697 16    
+MOHD YUSUFF/MIMI BAIJURA        T1DTWB   103   BDOKUL 7593 0807061704 3     
+                                                           0807061705       
+                                                           0807061706       
+BINTI ISMAIL/ZANI               QCH6NK   107   BDOKUL 7593 0807061707 11    
+BINTI JAMALUDIN/FAIRUZ          QCH6NK   92    BDOKUL 7593 0807061709 11    
+ZAINAL ABIDIN/MOHD SALLEHHUDDIN  G26ZUY   110   BDOKUL 7593 0807061710 20    
+BINTI ZAMBRUT/ISMAADENI         QCH6NK   90    BDOKUL 7593 0807061711 10    
+ZAINAL ABIDIN/MOHD SALLEHHUDDIN  G26ZUY   110   BDOKUL 7593 0807061714 4     
+BINTI AHMAD/NOOR ASWIZA         QCH6NK   93    BDOKUL 7593 0807061728 11    
+                                                           0807061730       
+NG/POH LING                     ZETTHE   113   BDOKUL 7593 0807061740 26    
+                                                           0807061741       
+AI KIM/SALENA KANG              H524WC   118   BDOKUL 7593 0807061757 36    
+                                                           0807061758       
+                                                           0807061759       
+Omar/Baharim                    D1KWVL   120   BDOKUL 7593 0807061762 14    
+MOHD AZEHA/FATIMAH AZWIAH       K9CNBE   121   BDOKUL 7593 0807061775 17    
+                                                           0807061776       
+ANIH/ANIH                       SDL3QH   123   BDOKUL 7593 0807061859 7     
+
+Totals     Passengers:  78     Bags:  154     Weight:  1597
+
+
+End of report
